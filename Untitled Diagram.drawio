@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-15T18:35:48.932Z" agent="5.0 (Windows)" etag="oyC8M6xxxcyYFmYzsSAW" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-15T19:13:11.728Z" agent="5.0 (Windows)" etag="FlwXUK5h5rbl1__Toaq6" version="20.2.3" type="github">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="905" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -625,13 +625,13 @@
         <mxCell id="gR5x1iu0TX8cfBhImnCA-215" value="&lt;div&gt;Заказ продукции на фабрике&lt;/div&gt;" style="swimlane;html=1;startSize=20;horizontal=0;container=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="1320" width="1161" height="755" as="geometry" />
         </mxCell>
-        <mxCell id="gR5x1iu0TX8cfBhImnCA-217" value="" style="dashed=1;dashPattern=8 4;endArrow=blockThin;endFill=1;startArrow=oval;startFill=0;endSize=6;startSize=4;rounded=0;entryX=0.72;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="gR5x1iu0TX8cfBhImnCA-196">
+        <mxCell id="gR5x1iu0TX8cfBhImnCA-217" value="" style="dashed=1;dashPattern=8 4;endArrow=blockThin;endFill=1;startArrow=none;startFill=0;endSize=6;startSize=4;rounded=0;entryX=0.72;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="gR5x1iu0TX8cfBhImnCA-196">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="1138" y="1370" as="sourcePoint" />
             <mxPoint x="1140" y="1250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gR5x1iu0TX8cfBhImnCA-218" value="" style="dashed=1;dashPattern=8 4;endArrow=blockThin;endFill=1;startArrow=oval;startFill=0;endSize=6;startSize=4;rounded=0;entryX=0.346;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.389;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="gR5x1iu0TX8cfBhImnCA-196" target="gR5x1iu0TX8cfBhImnCA-190">
+        <mxCell id="gR5x1iu0TX8cfBhImnCA-218" value="" style="dashed=1;dashPattern=8 4;endArrow=blockThin;endFill=1;startArrow=none;startFill=0;endSize=6;startSize=4;rounded=0;entryX=0.346;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.389;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="gR5x1iu0TX8cfBhImnCA-196" target="gR5x1iu0TX8cfBhImnCA-190">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="1110" y="1240" as="sourcePoint" />
             <mxPoint x="1140" y="1310" as="targetPoint" />
