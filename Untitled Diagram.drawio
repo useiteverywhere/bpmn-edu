@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-16T14:29:10.590Z" agent="5.0 (Windows)" etag="y-Wb9E4RqQ_zbwgMEh2O" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-16T14:30:02.152Z" agent="5.0 (Windows)" etag="hhOgj2idstBAgWlDKwLq" version="20.2.4" type="github">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
-    <mxGraphModel dx="508" dy="262" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1495" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1072,10 +1072,10 @@
           <mxGeometry x="2134" y="2333.5" width="70" height="45" as="geometry" />
         </mxCell>
         <mxCell id="25cziOm2FhxU-sNZid3r-154" value="Система" style="swimlane;html=1;startSize=20;horizontal=0;container=0;" vertex="1" parent="1">
-          <mxGeometry x="1530" y="2401" width="1140" height="203" as="geometry" />
+          <mxGeometry x="1530" y="2401" width="1140" height="149" as="geometry" />
         </mxCell>
         <mxCell id="25cziOm2FhxU-sNZid3r-156" value="Авторизация на сайте" style="swimlane;html=1;startSize=20;horizontal=0;container=0;" vertex="1" parent="1">
-          <mxGeometry x="1510" y="2198" width="1160" height="406" as="geometry" />
+          <mxGeometry x="1510" y="2198" width="1160" height="352" as="geometry" />
         </mxCell>
         <mxCell id="25cziOm2FhxU-sNZid3r-145" value="&lt;div&gt;Получение кода&lt;/div&gt;&lt;div&gt;по смс&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="25cziOm2FhxU-sNZid3r-156">
           <mxGeometry x="537" y="176" width="80" height="30" as="geometry" />
@@ -1102,7 +1102,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="25cziOm2FhxU-sNZid3r-160" value="Отправить проверочный код" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;isLoopStandard=0;isLoopSub=0;fontSize=7;" vertex="1" parent="1">
-          <mxGeometry x="1980" y="2474.5" width="70" height="45" as="geometry" />
+          <mxGeometry x="1980" y="2443.5" width="70" height="45" as="geometry" />
         </mxCell>
         <mxCell id="25cziOm2FhxU-sNZid3r-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=6;" edge="1" parent="1" source="25cziOm2FhxU-sNZid3r-159" target="25cziOm2FhxU-sNZid3r-143">
           <mxGeometry relative="1" as="geometry" />
@@ -1123,13 +1123,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="25cziOm2FhxU-sNZid3r-167" value="Авторизовать пользователя" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;isLoopStandard=0;isLoopSub=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="2274" y="2474.5" width="70" height="45" as="geometry" />
+          <mxGeometry x="2274" y="2443.5" width="70" height="45" as="geometry" />
         </mxCell>
         <mxCell id="25cziOm2FhxU-sNZid3r-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=6;" edge="1" parent="1" source="25cziOm2FhxU-sNZid3r-170" target="25cziOm2FhxU-sNZid3r-169">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="25cziOm2FhxU-sNZid3r-170" value="Сообщить об успешном входе&#xa;на сайт&#xa;" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;isLoopStandard=0;isLoopSub=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="2424" y="2474.5" width="70" height="45" as="geometry" />
+          <mxGeometry x="2424" y="2443.5" width="70" height="45" as="geometry" />
         </mxCell>
         <mxCell id="25cziOm2FhxU-sNZid3r-183" value="&lt;div&gt;Код введен &lt;br&gt;&lt;/div&gt;&lt;div&gt;корректно?&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="2210" y="2369" width="70" height="30" as="geometry" />
@@ -1148,8 +1148,8 @@
         <mxCell id="25cziOm2FhxU-sNZid3r-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=8;" edge="1" parent="1" source="25cziOm2FhxU-sNZid3r-185" target="25cziOm2FhxU-sNZid3r-160">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2379" y="2540" />
-              <mxPoint x="2015" y="2540" />
+              <mxPoint x="2379" y="2520" />
+              <mxPoint x="2015" y="2520" />
             </Array>
           </mxGeometry>
         </mxCell>
