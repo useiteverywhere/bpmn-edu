@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-16T14:37:43.224Z" agent="5.0 (Windows)" etag="wgkaRigeQr-4rH7uWPeW" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-16T14:55:55.233Z" agent="5.0 (Windows)" etag="nlgks0F0Ypkz5oF-mFOQ" version="20.2.4" type="github">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
-    <mxGraphModel dx="2118" dy="1093" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="687" dy="355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1162,7 +1162,7 @@
         <mxCell id="25cziOm2FhxU-sNZid3r-192" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="25cziOm2FhxU-sNZid3r-193" target="25cziOm2FhxU-sNZid3r-195">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="25cziOm2FhxU-sNZid3r-193" value="Перейти на сайт бронирования" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;isLoopStandard=0;isLoopSub=0;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="25cziOm2FhxU-sNZid3r-193" value="Указать параметры бронирования" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;isLoopStandard=0;isLoopSub=1;fontSize=7;isAdHoc=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1624" y="2702.5" width="70" height="45" as="geometry" />
         </mxCell>
         <mxCell id="25cziOm2FhxU-sNZid3r-194" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="25cziOm2FhxU-sNZid3r-195" target="25cziOm2FhxU-sNZid3r-198">
@@ -1246,7 +1246,7 @@
         <mxCell id="25cziOm2FhxU-sNZid3r-217" value="Система" style="swimlane;html=1;startSize=20;horizontal=0;container=0;" vertex="1" parent="1">
           <mxGeometry x="1530" y="2811" width="1140" height="149" as="geometry" />
         </mxCell>
-        <mxCell id="25cziOm2FhxU-sNZid3r-218" value="Авторизоваться на сайте" style="swimlane;html=1;startSize=20;horizontal=0;container=0;" vertex="1" parent="1">
+        <mxCell id="25cziOm2FhxU-sNZid3r-218" value="Забронировать номер" style="swimlane;html=1;startSize=20;horizontal=0;container=0;" vertex="1" parent="1">
           <mxGeometry x="1510" y="2608" width="1160" height="352" as="geometry" />
         </mxCell>
         <mxCell id="25cziOm2FhxU-sNZid3r-219" value="&lt;div&gt;Получение кода&lt;/div&gt;&lt;div&gt;по смс&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="25cziOm2FhxU-sNZid3r-218">
@@ -1322,6 +1322,15 @@
         </mxCell>
         <mxCell id="25cziOm2FhxU-sNZid3r-241" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="2250" y="2750" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="25cziOm2FhxU-sNZid3r-243" value="Указать дату&#xa;заезда" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;isLoopStandard=0;isLoopSub=0;fontSize=7;verticalAlign=middle;align=center;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="2829" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="25cziOm2FhxU-sNZid3r-244" value="Указать дату&#xa;отъезда" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;isLoopStandard=0;isLoopSub=0;fontSize=7;verticalAlign=middle;align=center;spacing=-5;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="2869" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="25cziOm2FhxU-sNZid3r-245" value="Выбрать тип&#xa;номера" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;isLoopStandard=0;isLoopSub=0;fontSize=7;verticalAlign=middle;align=center;spacing=-5;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="2909" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
