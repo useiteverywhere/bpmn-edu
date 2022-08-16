@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-16T18:45:56.793Z" agent="5.0 (Windows)" etag="nr1tJk1V0HhpOcZihz6_" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-16T18:46:41.106Z" agent="5.0 (Windows)" etag="SVBU0nz3-lDWpcgAteHV" version="20.2.4" type="github">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
-    <mxGraphModel dx="1271" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="726" dy="375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1213,18 +1213,18 @@
           <mxGeometry x="114" y="-3" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="25cziOm2FhxU-sNZid3r-329" value="Указать параметры бронирования" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;fontSize=8;html=0;verticalAlign=top;isLoopSub=0;isAdHoc=1;container=1;" vertex="1" parent="25cziOm2FhxU-sNZid3r-330">
-          <mxGeometry y="10" width="220" height="80" as="geometry">
+          <mxGeometry y="20" width="220" height="70" as="geometry">
             <mxRectangle x="-260" y="20" width="170" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="25cziOm2FhxU-sNZid3r-243" value="Указать дату&#xa;заезда" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;isLoopStandard=0;isLoopSub=0;fontSize=7;verticalAlign=middle;align=center;spacing=0;" vertex="1" parent="25cziOm2FhxU-sNZid3r-330">
-          <mxGeometry x="10" y="33" width="60" height="36" as="geometry" />
+          <mxGeometry x="10" y="39" width="60" height="36" as="geometry" />
         </mxCell>
         <mxCell id="25cziOm2FhxU-sNZid3r-244" value="Указать дату&#xa;отъезда" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;isLoopStandard=0;isLoopSub=0;fontSize=7;verticalAlign=middle;align=center;spacing=-5;" vertex="1" parent="25cziOm2FhxU-sNZid3r-330">
-          <mxGeometry x="80" y="33" width="60" height="36" as="geometry" />
+          <mxGeometry x="80" y="39" width="60" height="36" as="geometry" />
         </mxCell>
         <mxCell id="25cziOm2FhxU-sNZid3r-245" value="Выбрать тип&#xa;номера" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;isLoopStandard=0;isLoopSub=0;fontSize=7;verticalAlign=middle;align=center;spacing=-5;" vertex="1" parent="25cziOm2FhxU-sNZid3r-330">
-          <mxGeometry x="150" y="33" width="60" height="36" as="geometry" />
+          <mxGeometry x="150" y="39" width="60" height="36" as="geometry" />
         </mxCell>
         <mxCell id="25cziOm2FhxU-sNZid3r-266" value="&lt;div&gt;Подходящий&lt;/div&gt;&lt;div&gt;вариант?&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=7;" vertex="1" parent="1">
           <mxGeometry x="2115" y="2735" width="60" height="30" as="geometry" />
