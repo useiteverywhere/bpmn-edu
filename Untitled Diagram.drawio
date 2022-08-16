@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-16T19:14:01.605Z" agent="5.0 (Windows)" etag="bcAM76U2_UljW7SYI34i" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-16T19:15:27.113Z" agent="5.0 (Windows)" etag="VLmP8iB-gIHbLVeNplDb" version="20.2.4" type="github">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
-    <mxGraphModel dx="605" dy="312" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1816" dy="937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1432,13 +1432,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="25cziOm2FhxU-sNZid3r-341" value="&amp;nbsp;" style="swimlane;html=1;startSize=20;horizontal=0;container=0;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="3167" width="1220" height="203" as="geometry" />
+          <mxGeometry x="1450" y="3167" width="950" height="203" as="geometry" />
         </mxCell>
         <mxCell id="25cziOm2FhxU-sNZid3r-342" value="Система" style="swimlane;html=1;startSize=20;horizontal=0;container=0;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="3371" width="1220" height="149" as="geometry" />
+          <mxGeometry x="1450" y="3371" width="950" height="149" as="geometry" />
         </mxCell>
         <mxCell id="25cziOm2FhxU-sNZid3r-343" value="Произвести оплату онлайн" style="swimlane;html=1;startSize=20;horizontal=0;container=0;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="3168" width="1240" height="362" as="geometry" />
+          <mxGeometry x="1430" y="3168" width="970" height="352" as="geometry" />
         </mxCell>
         <mxCell id="25cziOm2FhxU-sNZid3r-344" value="Выбрать тип карты для оплаты" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;isLoopStandard=0;isLoopSub=0;fontSize=8;" vertex="1" parent="25cziOm2FhxU-sNZid3r-343">
           <mxGeometry x="100" y="94.5" width="70" height="45" as="geometry" />
@@ -1459,13 +1459,19 @@
           <mxGeometry x="625" y="212" width="70" height="45" as="geometry" />
         </mxCell>
         <mxCell id="25cziOm2FhxU-sNZid3r-379" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=message;fontSize=8;" vertex="1" parent="25cziOm2FhxU-sNZid3r-343">
-          <mxGeometry x="830" y="102" width="30" height="30" as="geometry" />
+          <mxGeometry x="880" y="102" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="25cziOm2FhxU-sNZid3r-441" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=8;" edge="1" parent="25cziOm2FhxU-sNZid3r-343" source="25cziOm2FhxU-sNZid3r-382" target="25cziOm2FhxU-sNZid3r-405">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="25cziOm2FhxU-sNZid3r-382" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=catching;symbol=message;fontSize=8;" vertex="1" parent="25cziOm2FhxU-sNZid3r-343">
           <mxGeometry x="748" y="102" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="25cziOm2FhxU-sNZid3r-332" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;fontFamily=Verdana;fontSize=8;" vertex="1" parent="25cziOm2FhxU-sNZid3r-343">
           <mxGeometry x="560" y="219.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="25cziOm2FhxU-sNZid3r-405" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;fontSize=8;" vertex="1" parent="25cziOm2FhxU-sNZid3r-343">
+          <mxGeometry x="810" y="102" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="25cziOm2FhxU-sNZid3r-355" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="25cziOm2FhxU-sNZid3r-356" target="25cziOm2FhxU-sNZid3r-438">
           <mxGeometry relative="1" as="geometry">
@@ -1501,9 +1507,6 @@
         </mxCell>
         <mxCell id="25cziOm2FhxU-sNZid3r-380" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=7;" vertex="1" parent="1">
           <mxGeometry x="2013" y="3447" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="25cziOm2FhxU-sNZid3r-405" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="2606" y="3187.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="25cziOm2FhxU-sNZid3r-406" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.026;entryY=0.506;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=8;" edge="1" parent="1" source="25cziOm2FhxU-sNZid3r-344" target="25cziOm2FhxU-sNZid3r-333">
           <mxGeometry relative="1" as="geometry" />
@@ -1562,7 +1565,7 @@
           <mxGeometry x="2055" y="3441" width="70" height="45" as="geometry" />
         </mxCell>
         <mxCell id="25cziOm2FhxU-sNZid3r-427" value="&lt;div&gt;Недостаточно&lt;/div&gt;&lt;div&gt;средств&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="2235" y="3308" width="80" height="30" as="geometry" />
+          <mxGeometry x="2285" y="3308" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="25cziOm2FhxU-sNZid3r-437" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="25cziOm2FhxU-sNZid3r-428" target="25cziOm2FhxU-sNZid3r-382">
           <mxGeometry relative="1" as="geometry" />
