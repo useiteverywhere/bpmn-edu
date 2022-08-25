@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-24T13:51:54.387Z" agent="5.0 (Windows)" etag="oAhRyryBG4huo4pYF_Zy" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-25T12:34:35.946Z" agent="5.0 (Windows)" etag="fxp30zyO5BVK4K28ocqP" version="20.2.4" type="github">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
-    <mxGraphModel dx="706" dy="364" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1210" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1001,15 +1001,8 @@
             <mxRectangle x="1624" y="2702.5" width="140" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bPHD4XQHYkE-oZ2zYIqH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=8;" edge="1" parent="1" source="bPHD4XQHYkE-oZ2zYIqH-5" target="bPHD4XQHYkE-oZ2zYIqH-33">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1910" y="2165" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bPHD4XQHYkE-oZ2zYIqH-5" value="Нажать кнопку &#xa;Поиск" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;isLoopStandard=0;isLoopSub=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="1994" y="1842.5" width="70" height="45" as="geometry" />
+        <mxCell id="bPHD4XQHYkE-oZ2zYIqH-5" value="Договориться о&#xa;встрече" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;isLoopStandard=0;isLoopSub=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1904" y="1842.5" width="70" height="45" as="geometry" />
         </mxCell>
         <mxCell id="bPHD4XQHYkE-oZ2zYIqH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=7;" edge="1" parent="1" source="bPHD4XQHYkE-oZ2zYIqH-9" target="bPHD4XQHYkE-oZ2zYIqH-67">
           <mxGeometry relative="1" as="geometry">
@@ -1047,7 +1040,7 @@
           <mxGeometry x="50" y="-119" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bPHD4XQHYkE-oZ2zYIqH-17" value="" style="group" vertex="1" connectable="0" parent="bPHD4XQHYkE-oZ2zYIqH-13">
-          <mxGeometry x="100" y="62" width="220" height="90" as="geometry" />
+          <mxGeometry x="1300" y="100" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bPHD4XQHYkE-oZ2zYIqH-18" value="Указать параметры бронирования" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;fontSize=8;html=0;verticalAlign=top;isLoopSub=0;isAdHoc=1;container=1;" vertex="1" parent="bPHD4XQHYkE-oZ2zYIqH-17">
           <mxGeometry y="20" width="220" height="70" as="geometry">
@@ -1064,7 +1057,7 @@
           <mxGeometry x="150" y="39" width="60" height="36" as="geometry" />
         </mxCell>
         <mxCell id="bPHD4XQHYkE-oZ2zYIqH-22" value="" style="group" vertex="1" connectable="0" parent="bPHD4XQHYkE-oZ2zYIqH-13">
-          <mxGeometry x="330" y="10" width="260" height="100" as="geometry" />
+          <mxGeometry x="1300" width="260" height="100" as="geometry" />
         </mxCell>
         <mxCell id="bPHD4XQHYkE-oZ2zYIqH-23" value="Отмена оплаты до нажатия кнопки Оплатить или &#xa;выбора типа оплаты Офлайн&#xa;" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;arcSize=10;taskMarker=abstract;outline=none;symbol=general;bpmnShapeType=subprocess;isLoopSub=0;verticalAlign=top;align=center;spacingLeft=5;fontSize=8;html=0;" vertex="1" parent="bPHD4XQHYkE-oZ2zYIqH-22">
           <mxGeometry width="240" height="100" as="geometry" />
