@@ -1,11 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-08-26T15:11:09.845Z" agent="5.0 (Windows)" etag="rab1L9UD8Xxo7MH3qgA_" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-26T15:13:27.629Z" agent="5.0 (Windows)" etag="Pc_4abm3LX2sCYG-rwb8" version="20.2.4" type="github">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
-    <mxGraphModel dx="978" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Y7nAUc1ArU3zw-fMrCNe-119" value="&lt;div&gt;На примерке&lt;/div&gt;&lt;div&gt;все ок?&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="2951" y="2206.5" width="70" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="bPHD4XQHYkE-oZ2zYIqH-13" value="&amp;nbsp;" style="swimlane;html=1;startSize=20;horizontal=0;container=0;" parent="1" vertex="1">
-          <mxGeometry x="1540" y="1970" width="1760" height="330" as="geometry" />
+          <mxGeometry x="1540" y="1970" width="1760" height="360" as="geometry" />
         </mxCell>
         <mxCell id="bPHD4XQHYkE-oZ2zYIqH-14" value="Выбрать&#xa; модель" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;isLoopStandard=0;isLoopSub=0;fontSize=8;" parent="bPHD4XQHYkE-oZ2zYIqH-13" vertex="1">
           <mxGeometry x="140" y="-156.5" width="70" height="26.5" as="geometry" />
@@ -1081,7 +1084,7 @@
           <mxGeometry x="1303" y="42.5" width="70" height="45" as="geometry" />
         </mxCell>
         <mxCell id="bPHD4XQHYkE-oZ2zYIqH-12" value="Швейное производство" style="swimlane;html=1;startSize=20;horizontal=0;container=0;" parent="1" vertex="1">
-          <mxGeometry x="1560" y="2120" width="1740" height="180" as="geometry" />
+          <mxGeometry x="1560" y="2120" width="1740" height="210" as="geometry" />
         </mxCell>
         <mxCell id="bPHD4XQHYkE-oZ2zYIqH-44" value="Оплата получена" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="2429" y="2052" width="90" height="20" as="geometry" />
@@ -1423,12 +1426,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y7nAUc1ArU3zw-fMrCNe-118" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="2972" y="2178" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Y7nAUc1ArU3zw-fMrCNe-119" value="&lt;div&gt;На примерке&lt;/div&gt;&lt;div&gt;все ок?&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="2951" y="2206.5" width="70" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Y7nAUc1ArU3zw-fMrCNe-121" value="Пошить финальную версию" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;isLoopStandard=0;isLoopSub=1;fontSize=8;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="3740" y="2133" width="70" height="45" as="geometry" />
         </mxCell>
@@ -1448,7 +1445,23 @@
           <mxGeometry x="2960" y="2142" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Y7nAUc1ArU3zw-fMrCNe-128" value="Пошить финальную версию" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;isLoopStandard=0;isLoopSub=1;fontSize=8;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="3022" y="2210.5" width="70" height="45" as="geometry" />
+          <mxGeometry x="3130" y="2370" width="70" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Y7nAUc1ArU3zw-fMrCNe-129" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="3042" y="2240" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y7nAUc1ArU3zw-fMrCNe-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=8;" edge="1" parent="1" source="Y7nAUc1ArU3zw-fMrCNe-118" target="Y7nAUc1ArU3zw-fMrCNe-129">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2987" y="2255" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y7nAUc1ArU3zw-fMrCNe-118" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="2972" y="2178" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y7nAUc1ArU3zw-fMrCNe-132" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="2990" y="2256" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
