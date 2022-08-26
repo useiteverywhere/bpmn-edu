@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-26T16:28:36.033Z" agent="5.0 (Windows)" etag="g75NEqAtvpBWeobEtuRN" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-26T16:36:52.034Z" agent="5.0 (Windows)" etag="h5r5donEP5kJXVX33g96" version="20.2.4" type="github">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
-    <mxGraphModel dx="726" dy="375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1059" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1525,9 +1525,6 @@
               <mxPoint x="1810" y="2872" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Y7nAUc1ArU3zw-fMrCNe-177" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="2340" y="3070" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y7nAUc1ArU3zw-fMrCNe-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="Y7nAUc1ArU3zw-fMrCNe-166" target="Y7nAUc1ArU3zw-fMrCNe-167">
           <mxGeometry relative="1" as="geometry" />
