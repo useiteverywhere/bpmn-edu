@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-26T10:02:39.787Z" agent="5.0 (Windows)" etag="DMId3eM0Cdx99kzBmhrO" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-26T10:02:57.824Z" agent="5.0 (Windows)" etag="EjaDCf2W9COvvTUAKnoe" version="20.2.4" type="github">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="877" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -1364,7 +1364,7 @@
           <mxGeometry x="2460" y="2020" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y7nAUc1ArU3zw-fMrCNe-33" value="Костюм готов" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="2619" y="2210" width="70" height="20" as="geometry" />
+          <mxGeometry x="2670" y="2209" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Y7nAUc1ArU3zw-fMrCNe-34" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=catching;symbol=message;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="2690" y="1850" width="30" height="30" as="geometry" />
