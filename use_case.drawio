@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-10-10T10:38:48.566Z" agent="5.0 (Windows)" etag="yQOb0qYpb9hGT6r42LU5" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-10T10:42:39.042Z" agent="5.0 (Windows)" etag="YLZppUJHtqkjnbIgL2P1" version="20.3.0" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
-    <mxGraphModel dx="1204" dy="1770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1720" dy="2057" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="iH67yDx8k5spiiFpo-aq-93" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=10;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1127" width="431" height="431" as="geometry" />
+        </mxCell>
         <mxCell id="iH67yDx8k5spiiFpo-aq-1" value="Войти по email" style="ellipse;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="30" width="120" height="80" as="geometry" />
         </mxCell>
@@ -36,15 +39,6 @@
         </mxCell>
         <mxCell id="iH67yDx8k5spiiFpo-aq-11" value="Редактировать категорию" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="-130" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="iH67yDx8k5spiiFpo-aq-12" value="Удалить запись на странице Помощь" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="-880" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="iH67yDx8k5spiiFpo-aq-13" value="Редактировать запись на странице Помощь" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="-880" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="iH67yDx8k5spiiFpo-aq-14" value="Добавить запись на странице Помощь" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="-776" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iH67yDx8k5spiiFpo-aq-16" value="&lt;div&gt;Добавить запись &lt;br&gt;&lt;/div&gt;&lt;div&gt;о транзакции&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="360" width="120" height="80" as="geometry" />
@@ -99,15 +93,6 @@
             <mxPoint x="340" y="1400" as="sourcePoint" />
             <mxPoint x="269.9999999999999" y="1400" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="iH67yDx8k5spiiFpo-aq-48" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iH67yDx8k5spiiFpo-aq-12" target="iH67yDx8k5spiiFpo-aq-13">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="-840" as="sourcePoint" />
-            <mxPoint x="270.0000000000023" y="-840" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="iH67yDx8k5spiiFpo-aq-49" value="extend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="288" y="-865" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iH67yDx8k5spiiFpo-aq-50" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -235,29 +220,17 @@
         <mxCell id="iH67yDx8k5spiiFpo-aq-78" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=10;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="70" y="1127" width="431" height="431" as="geometry" />
         </mxCell>
-        <mxCell id="iH67yDx8k5spiiFpo-aq-79" value="Опубликовать видео" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="970" y="1348" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="iH67yDx8k5spiiFpo-aq-80" value="Удалить видео" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iH67yDx8k5spiiFpo-aq-80" value="Удалить запись на странице Помощь" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="1449" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iH67yDx8k5spiiFpo-aq-81" value="Редактировать видео" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iH67yDx8k5spiiFpo-aq-81" value="Редактировать запись на станице Помощь" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="1348" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iH67yDx8k5spiiFpo-aq-82" value="&lt;div&gt;Добавить видео&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iH67yDx8k5spiiFpo-aq-82" value="&lt;div&gt;Добавить запись на странице Помощь&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="1246" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iH67yDx8k5spiiFpo-aq-83" value="&lt;div&gt;Просмотреть &lt;br&gt;&lt;/div&gt;&lt;div&gt;видео&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iH67yDx8k5spiiFpo-aq-83" value="&lt;div&gt;Просмотреть страницу Помощь&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="1145" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="iH67yDx8k5spiiFpo-aq-84" value="extend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="900" y="1362" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="iH67yDx8k5spiiFpo-aq-85" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1" source="iH67yDx8k5spiiFpo-aq-79" target="iH67yDx8k5spiiFpo-aq-81">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="950" y="1400" as="sourcePoint" />
-            <mxPoint x="879.9999999999999" y="1400" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="iH67yDx8k5spiiFpo-aq-86" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="630" y="1120" width="30" height="60" as="geometry" />
@@ -294,9 +267,6 @@
             <mxPoint x="690" y="1450" as="sourcePoint" />
             <mxPoint x="740" y="1400" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="iH67yDx8k5spiiFpo-aq-93" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=10;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="680" y="1127" width="431" height="431" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
