@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-10T10:54:55.973Z" agent="5.0 (Windows)" etag="lr6NWUftkPgtIprJjfI1" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-10T10:55:08.051Z" agent="5.0 (Windows)" etag="7Rrnp8xhtx7WboWsXvlm" version="20.3.0" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
     <mxGraphModel dx="1680" dy="1562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -271,7 +271,7 @@
             <mxPoint x="740" y="1400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iH67yDx8k5spiiFpo-aq-94" value="Вернуь категории для отчета" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iH67yDx8k5spiiFpo-aq-94" value="Вернуть категории для отчета" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="971" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iH67yDx8k5spiiFpo-aq-98" value="&lt;div&gt;Просмотреть &lt;br&gt;&lt;/div&gt;&lt;div&gt;страницу отчета&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
