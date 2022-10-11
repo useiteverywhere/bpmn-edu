@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-11T09:19:45.420Z" agent="5.0 (Windows)" etag="6H-HRcubY4FTwYRWHWhz" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-11T09:55:30.116Z" agent="5.0 (Windows)" etag="Xzp7uoktqR3oKCjkt8cE" version="20.3.0" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
-    <mxGraphModel dx="2266" dy="1888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1538" dy="1483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -190,10 +190,10 @@
         <mxCell id="iH67yDx8k5spiiFpo-aq-83" value="&lt;div&gt;Просмотреть страницу Помощь&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="1145" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iH67yDx8k5spiiFpo-aq-86" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="iH67yDx8k5spiiFpo-aq-86" value="&lt;div&gt;Common&lt;/div&gt;&lt;div&gt;User&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="630" y="1120" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iH67yDx8k5spiiFpo-aq-87" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="iH67yDx8k5spiiFpo-aq-87" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="630" y="1260" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iH67yDx8k5spiiFpo-aq-88" value="" style="endArrow=none;html=1;rounded=0;fontSize=10;entryX=0;entryY=0.438;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iH67yDx8k5spiiFpo-aq-86" target="iH67yDx8k5spiiFpo-aq-83">
@@ -397,10 +397,10 @@
         <mxCell id="iH67yDx8k5spiiFpo-aq-159" value="extend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="1280" y="400" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iH67yDx8k5spiiFpo-aq-160" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="iH67yDx8k5spiiFpo-aq-160" value="&lt;div&gt;Common&lt;/div&gt;&lt;div&gt;User&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="550" y="750" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iH67yDx8k5spiiFpo-aq-161" value="All users" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="iH67yDx8k5spiiFpo-aq-161" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="630" y="825" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iH67yDx8k5spiiFpo-aq-162" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=10;" vertex="1" parent="1">
@@ -476,6 +476,21 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="35" y="1210" as="sourcePoint" />
             <mxPoint x="50" y="1190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iH67yDx8k5spiiFpo-aq-186" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1260" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iH67yDx8k5spiiFpo-aq-187" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;endFill=1;" edge="1" parent="1" source="iH67yDx8k5spiiFpo-aq-186" target="iH67yDx8k5spiiFpo-aq-87">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="1410" as="sourcePoint" />
+            <mxPoint x="630" y="1289.9999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iH67yDx8k5spiiFpo-aq-188" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;" edge="1" parent="1" target="iH67yDx8k5spiiFpo-aq-87">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="645" y="1210" as="sourcePoint" />
+            <mxPoint x="645" y="1259.9999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
