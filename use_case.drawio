@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-12T11:45:06.586Z" agent="5.0 (Windows)" etag="fKgLKTZF7CXtXp_2dG9a" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-12T11:47:45.057Z" agent="5.0 (Windows)" etag="YEhEjV-HhtnkTtaFBMtu" version="20.3.0" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
-    <mxGraphModel dx="2430" dy="2037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2693" dy="2193" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1320,6 +1320,30 @@
         </mxCell>
         <mxCell id="9JSYzaQLczRlGTcXWpsd-173" value="Категория 5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=28;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="3380" y="811" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9JSYzaQLczRlGTcXWpsd-174" value="" style="strokeColor=#999999;verticalLabelPosition=bottom;shadow=0;dashed=0;verticalAlign=top;strokeWidth=2;html=1;shape=mxgraph.mockup.misc.editIcon;fontSize=23;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3660" y="455" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="9JSYzaQLczRlGTcXWpsd-175" value="" style="strokeColor=#999999;verticalLabelPosition=bottom;shadow=0;dashed=0;verticalAlign=top;strokeWidth=2;html=1;shape=mxgraph.mockup.misc.editIcon;fontSize=23;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3660" y="545" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="9JSYzaQLczRlGTcXWpsd-176" value="" style="strokeColor=#999999;verticalLabelPosition=bottom;shadow=0;dashed=0;verticalAlign=top;strokeWidth=2;html=1;shape=mxgraph.mockup.misc.editIcon;fontSize=23;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3661" y="635" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="9JSYzaQLczRlGTcXWpsd-177" value="" style="strokeColor=#999999;verticalLabelPosition=bottom;shadow=0;dashed=0;verticalAlign=top;strokeWidth=2;html=1;shape=mxgraph.mockup.misc.editIcon;fontSize=23;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3661" y="725" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="9JSYzaQLczRlGTcXWpsd-178" value="" style="strokeColor=#999999;verticalLabelPosition=bottom;shadow=0;dashed=0;verticalAlign=top;strokeWidth=2;html=1;shape=mxgraph.mockup.misc.editIcon;fontSize=23;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3661" y="815" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="9JSYzaQLczRlGTcXWpsd-179" value="Выберите категорию" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=28;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="3375" y="345" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9JSYzaQLczRlGTcXWpsd-183" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;strokeWidth=2;fontSize=23;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3370" y="370" as="sourcePoint" />
+            <mxPoint x="3330" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
