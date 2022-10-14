@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-14T16:03:46.653Z" agent="5.0 (Windows)" etag="S15mfCbdtx7XwP-UYCZX" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-14T16:11:15.983Z" agent="5.0 (Windows)" etag="MQ0GOqUxLW57c-yWD2L0" version="20.4.0" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
-    <mxGraphModel dx="4588" dy="3724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1516" dy="1888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1339,8 +1339,8 @@
         <mxCell id="LHVxIOyakxHDjJlF5Uot-7" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="1708.5" y="-424" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LHVxIOyakxHDjJlF5Uot-11" value="&lt;div&gt;Ввести код&lt;/div&gt;&lt;div&gt;из смс&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;flipH=1;strokeColor=#009900;" vertex="1" parent="1">
-          <mxGeometry x="6000" y="-510" width="120" height="80" as="geometry" />
+        <mxCell id="LHVxIOyakxHDjJlF5Uot-11" value="&lt;div&gt;Ввести код&lt;/div&gt;&lt;div&gt;из смс&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;flipH=1;strokeColor=#FF0000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="5620" y="-324" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
