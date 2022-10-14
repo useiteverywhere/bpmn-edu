@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-14T13:34:48.604Z" agent="5.0 (Windows)" etag="_Qefyy63oEASCsLmgOIU" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-14T14:04:09.868Z" agent="5.0 (Windows)" etag="UE_EfF_k0DGvJX7Hx2YH" version="20.4.0" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
-    <mxGraphModel dx="1639" dy="2037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="956" dy="1647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -127,16 +127,16 @@
             <mxPoint x="4904.5" y="2053" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iH67yDx8k5spiiFpo-aq-80" value="Удалить запись на странице Помощь" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#006600;" parent="1" vertex="1">
+        <mxCell id="iH67yDx8k5spiiFpo-aq-80" value="Удалить запись в разделе Помощь" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#006600;" parent="1" vertex="1">
           <mxGeometry x="5524.5" y="2102" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iH67yDx8k5spiiFpo-aq-81" value="Редактировать запись на станице Помощь" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#006600;" parent="1" vertex="1">
+        <mxCell id="iH67yDx8k5spiiFpo-aq-81" value="Редактировать запись в разделе Помощь" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#006600;" parent="1" vertex="1">
           <mxGeometry x="5524.5" y="2001" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iH67yDx8k5spiiFpo-aq-82" value="&lt;div&gt;Добавить запись &lt;br&gt;&lt;/div&gt;&lt;div&gt;на странице Помощь&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#006600;" parent="1" vertex="1">
+        <mxCell id="iH67yDx8k5spiiFpo-aq-82" value="&lt;div&gt;Добавить запись &lt;br&gt;&lt;/div&gt;&lt;div&gt;в раздел Помощь&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#006600;" parent="1" vertex="1">
           <mxGeometry x="5524.5" y="1899" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iH67yDx8k5spiiFpo-aq-83" value="&lt;div&gt;Просмотреть страницу Помощь&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#006600;" parent="1" vertex="1">
+        <mxCell id="iH67yDx8k5spiiFpo-aq-83" value="&lt;div&gt;Просмотреть раздел Помощь&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#006600;" parent="1" vertex="1">
           <mxGeometry x="5524.5" y="1798" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iH67yDx8k5spiiFpo-aq-86" value="&lt;div&gt;Common&lt;/div&gt;&lt;div&gt;User&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=10;strokeColor=#006600;" parent="1" vertex="1">
