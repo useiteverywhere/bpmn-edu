@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-19T17:16:33.083Z" agent="5.0 (Windows)" etag="9QGqvhLrt6P5jOYGoHpX" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-19T17:34:08.776Z" agent="5.0 (Windows)" etag="rOz2knXZ7HE8HMMCXhLT" version="20.4.1" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
     <mxGraphModel dx="645" dy="1435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1366,7 +1366,7 @@
         <mxCell id="uI9mQodt2XJDgny03Jzq-42" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="4260" y="1740" width="150" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="uI9mQodt2XJDgny03Jzq-38" value="&lt;div align=&quot;left&quot;&gt;+ wallet_name: String&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ total_amount: Float&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ wallet_image: Enum (?)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="uI9mQodt2XJDgny03Jzq-42">
+        <mxCell id="uI9mQodt2XJDgny03Jzq-38" value="&lt;div align=&quot;left&quot;&gt;+ wallet_name: String&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ wallet_total: Float&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ wallet_image: Enum (?)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="uI9mQodt2XJDgny03Jzq-42">
           <mxGeometry y="20" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uI9mQodt2XJDgny03Jzq-39" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="uI9mQodt2XJDgny03Jzq-42">
@@ -1414,7 +1414,7 @@
         <mxCell id="uI9mQodt2XJDgny03Jzq-56" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="5120" y="1740" width="150" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="uI9mQodt2XJDgny03Jzq-57" value="&lt;div align=&quot;left&quot;&gt;+ help_category: Enum&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ help_header: String&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ help_body: String&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ help_file: ?&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="uI9mQodt2XJDgny03Jzq-56">
+        <mxCell id="uI9mQodt2XJDgny03Jzq-57" value="&lt;div align=&quot;left&quot;&gt;+ help_category: Enum&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ help_header: String&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ help_body: String&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ help_image: ?&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="uI9mQodt2XJDgny03Jzq-56">
           <mxGeometry y="20" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uI9mQodt2XJDgny03Jzq-58" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="uI9mQodt2XJDgny03Jzq-56">
