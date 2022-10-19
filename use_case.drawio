@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-19T18:56:09.807Z" agent="5.0 (Windows)" etag="sQ1QBcrTJ1c5ZPR3iVvF" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-19T18:58:08.434Z" agent="5.0 (Windows)" etag="RkG32Re2YvImhdOrtNqG" version="20.4.1" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
-    <mxGraphModel dx="1074" dy="1658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="614" dy="1419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1531,8 +1531,11 @@
         <mxCell id="uI9mQodt2XJDgny03Jzq-93" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="4807" y="2478" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uI9mQodt2XJDgny03Jzq-94" value="" style="triangle;whiteSpace=wrap;html=1;rounded=1;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="4390" y="2640" width="20" height="20" as="geometry" />
+        <mxCell id="uI9mQodt2XJDgny03Jzq-94" value="" style="triangle;whiteSpace=wrap;html=1;rounded=0;fillColor=#000000;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="4329" y="2523" width="12" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="uI9mQodt2XJDgny03Jzq-95" value="&lt;div&gt;Транзакция денег &lt;br&gt;&lt;/div&gt;&lt;div&gt;из\в кошелек&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4350" y="2508" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
