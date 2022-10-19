@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-19T17:54:11.851Z" agent="5.0 (Windows)" etag="TU5JgRPbuFKubnBr72g0" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-19T18:01:39.887Z" agent="5.0 (Windows)" etag="Hu411Hge-cHkNX66UNmh" version="20.4.1" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
     <mxGraphModel dx="1121" dy="1683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1424,12 +1424,12 @@
           <mxGeometry width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uI9mQodt2XJDgny03Jzq-60" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="4470" y="2000" width="200" height="190" as="geometry" />
+          <mxGeometry x="4470" y="1960" width="200" height="190" as="geometry" />
         </mxCell>
         <mxCell id="uI9mQodt2XJDgny03Jzq-61" value="&lt;div align=&quot;left&quot;&gt;# period: Date&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="uI9mQodt2XJDgny03Jzq-60">
           <mxGeometry y="27.14" width="200" height="32.86" as="geometry" />
         </mxCell>
-        <mxCell id="uI9mQodt2XJDgny03Jzq-62" value="&lt;div align=&quot;left&quot;&gt;+ readWalletName(): void&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ readWalletTotal(): void&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ readCategoryName(): string&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ readTransactionType(): Enum&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ readTransactionDate(): Date&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;readCurrency(): Enum&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="uI9mQodt2XJDgny03Jzq-60">
+        <mxCell id="uI9mQodt2XJDgny03Jzq-62" value="&lt;div align=&quot;left&quot;&gt;+ readWalletName(): void&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ readWalletTotal(): void&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ readCategoryName(): string&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ readTransactionType(): Enum&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ readTransactionDate(): Date&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ readCurrency(): Enum&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="uI9mQodt2XJDgny03Jzq-60">
           <mxGeometry y="60" width="200" height="130" as="geometry" />
         </mxCell>
         <mxCell id="uI9mQodt2XJDgny03Jzq-63" value="Statistics" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="uI9mQodt2XJDgny03Jzq-60">
