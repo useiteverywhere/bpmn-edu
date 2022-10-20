@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-20T12:09:18.222Z" agent="5.0 (Windows)" etag="pd5m5WfGrA7gro1lE6cQ" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-20T12:14:15.363Z" agent="5.0 (Windows)" etag="3LXsEMiItGaT2YfDE7l1" version="20.4.1" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
     <mxGraphModel dx="1074" dy="1658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1599,6 +1599,18 @@
         </mxCell>
         <mxCell id="uI9mQodt2XJDgny03Jzq-122" value="User" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="uI9mQodt2XJDgny03Jzq-119">
           <mxGeometry width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uI9mQodt2XJDgny03Jzq-124" value="loginStatus: пользоватеь в системе или вышел из нее" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5239" y="2790" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uI9mQodt2XJDgny03Jzq-125" value="&lt;div&gt;name: опциональное поле, которое можно заполнить вручную, &lt;br&gt;&lt;/div&gt;&lt;div&gt;или туда установятся данные из поля name соцсетей&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5247.5" y="2752" width="380" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uI9mQodt2XJDgny03Jzq-126" value="accountStatus: пользователь активен или заблокирован" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5236" y="2815" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uI9mQodt2XJDgny03Jzq-127" value="&lt;div align=&quot;left&quot;&gt;accountType: простой пользователь или админ; может быть добавлен другой &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;тип в будущем&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5250" y="2839" width="470" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
