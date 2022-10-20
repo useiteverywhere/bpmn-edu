@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-20T14:21:16.415Z" agent="5.0 (Windows)" etag="2ycvfZTVEIuWcbPp7QA-" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-20T14:22:14.344Z" agent="5.0 (Windows)" etag="FWVMFqJXe0l8JDmrzajp" version="20.4.1" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
     <mxGraphModel dx="889" dy="1562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1589,16 +1589,16 @@
           <mxGeometry width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uI9mQodt2XJDgny03Jzq-119" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="5041" y="2740" width="170" height="240" as="geometry" />
+          <mxGeometry x="5041" y="2710" width="170" height="270" as="geometry" />
         </mxCell>
         <mxCell id="uI9mQodt2XJDgny03Jzq-120" value="&lt;div align=&quot;left&quot;&gt;- userId: int&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ name: string&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- loginStatus: string&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- accontStatus: string&lt;br&gt;&lt;/div&gt;&lt;div&gt;- accountType: string&lt;/div&gt;&lt;div&gt;-  registerDate: date&lt;/div&gt;&lt;div&gt;- lastVisitDate: date&lt;/div&gt;&lt;div&gt;+ userIcon: ?&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="uI9mQodt2XJDgny03Jzq-119">
-          <mxGeometry y="20" width="170" height="130" as="geometry" />
+          <mxGeometry y="22.5" width="170" height="127.5" as="geometry" />
         </mxCell>
-        <mxCell id="uI9mQodt2XJDgny03Jzq-121" value="&lt;div&gt;+ login()&lt;/div&gt;&lt;div&gt;+ register()&lt;/div&gt;&lt;div&gt;+ updateProfile()&lt;/div&gt;&lt;div&gt;+ verifyLogin(): boolean&lt;/div&gt;&lt;div&gt;+ updateIcon():&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="uI9mQodt2XJDgny03Jzq-119">
-          <mxGeometry y="150" width="170" height="90" as="geometry" />
+        <mxCell id="uI9mQodt2XJDgny03Jzq-121" value="&lt;div&gt;+ login()&lt;/div&gt;&lt;div&gt;+ register()&lt;/div&gt;&lt;div&gt;+ updateProfile()&lt;/div&gt;&lt;div&gt;+ verifyLogin(): boolean&lt;/div&gt;&lt;div&gt;+ updateIcon()&lt;/div&gt;&lt;div&gt;+ viewVideo()&lt;/div&gt;&lt;div&gt;+ viewHelp()&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="uI9mQodt2XJDgny03Jzq-119">
+          <mxGeometry y="150" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="uI9mQodt2XJDgny03Jzq-122" value="&lt;i&gt;User&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="uI9mQodt2XJDgny03Jzq-119">
-          <mxGeometry width="170" height="20" as="geometry" />
+          <mxGeometry width="170" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="uI9mQodt2XJDgny03Jzq-124" value="&lt;b&gt;loginStatus&lt;/b&gt;: пользователь в системе или вышел из нее" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="5236" y="2780" width="350" height="30" as="geometry" />
