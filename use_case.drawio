@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-20T14:29:28.631Z" agent="5.0 (Windows)" etag="vl_kf1Aqzc_jR8qABdfW" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-20T14:58:00.238Z" agent="5.0 (Windows)" etag="dkJzXOny6EtZP0IPBNHc" version="20.4.1" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
     <mxGraphModel dx="1074" dy="1658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1441,7 +1441,7 @@
         <mxCell id="uI9mQodt2XJDgny03Jzq-65" value="&lt;div align=&quot;left&quot;&gt;+ walletId: int&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ walletName: string&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ walletTotal: float&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;# walletIcon: ?&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="uI9mQodt2XJDgny03Jzq-64">
           <mxGeometry y="20" width="220.00000000000003" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uI9mQodt2XJDgny03Jzq-66" value="&lt;div align=&quot;left&quot;&gt;+ readTransactionAmount()&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ readTransactionDate()&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="uI9mQodt2XJDgny03Jzq-64">
+        <mxCell id="uI9mQodt2XJDgny03Jzq-66" value="&lt;div align=&quot;left&quot;&gt;+ viewTransactionAmount()&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ viewTransactionDate()&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="uI9mQodt2XJDgny03Jzq-64">
           <mxGeometry y="80" width="220.00000000000003" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uI9mQodt2XJDgny03Jzq-67" value="Wallet" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="uI9mQodt2XJDgny03Jzq-64">
@@ -1453,7 +1453,7 @@
         <mxCell id="uI9mQodt2XJDgny03Jzq-69" value="&lt;div align=&quot;left&quot;&gt;+ transactionId: Int&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ transactionType: string (enum?)&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ categoryName: string (enum?)&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ transactionAmount: float&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ transactionDate: date&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ currency: string (enum?)&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ transactionComment: string&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="uI9mQodt2XJDgny03Jzq-68">
           <mxGeometry y="31.3" width="200" height="108.7" as="geometry" />
         </mxCell>
-        <mxCell id="uI9mQodt2XJDgny03Jzq-70" value="&lt;div align=&quot;left&quot;&gt;+ readWalletId()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ readWalletTotal()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ readCategoryId()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ readCategoryName()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ readCurrency()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ readCategoryIcon()&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="uI9mQodt2XJDgny03Jzq-68">
+        <mxCell id="uI9mQodt2XJDgny03Jzq-70" value="&lt;div align=&quot;left&quot;&gt;+ viewWalletId()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ viewWalletTotal()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ viewCategoryId()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ viewCategoryName()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ viewCurrency()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ viewCategoryIcon()&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="uI9mQodt2XJDgny03Jzq-68">
           <mxGeometry y="140" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="uI9mQodt2XJDgny03Jzq-71" value="Transaction" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="uI9mQodt2XJDgny03Jzq-68">
@@ -1501,7 +1501,7 @@
         <mxCell id="uI9mQodt2XJDgny03Jzq-85" value="&lt;div align=&quot;left&quot;&gt;# period: Date&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="uI9mQodt2XJDgny03Jzq-84">
           <mxGeometry y="27.14" width="200" height="32.86" as="geometry" />
         </mxCell>
-        <mxCell id="uI9mQodt2XJDgny03Jzq-86" value="&lt;div align=&quot;left&quot;&gt;+ readWalletId(): void&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ readWalletTotal(): void&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ readCategoryId(): string&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ readTransactionType(): Enum&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ readTransactionDate(): Date&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ readCurrency(): Enum&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="uI9mQodt2XJDgny03Jzq-84">
+        <mxCell id="uI9mQodt2XJDgny03Jzq-86" value="&lt;div align=&quot;left&quot;&gt;+ viewWalletId()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ viewWalletTotal(&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ viewCategoryId()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ viewTransactionType()&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ viewTransactionDate()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ viewCurrency()&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="uI9mQodt2XJDgny03Jzq-84">
           <mxGeometry y="60" width="200" height="130" as="geometry" />
         </mxCell>
         <mxCell id="uI9mQodt2XJDgny03Jzq-87" value="Statistics" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="uI9mQodt2XJDgny03Jzq-84">
