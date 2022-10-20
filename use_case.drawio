@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-20T14:07:45.416Z" agent="5.0 (Windows)" etag="bgKCb0bYsrczOWYp4HC3" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-20T14:17:16.212Z" agent="5.0 (Windows)" etag="ESgPkgmuBeBpVTttmKdW" version="20.4.1" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
     <mxGraphModel dx="1074" dy="1658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1601,22 +1601,22 @@
           <mxGeometry width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uI9mQodt2XJDgny03Jzq-124" value="&lt;b&gt;loginStatus&lt;/b&gt;: пользователь в системе или вышел из нее" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="5236" y="2730" width="350" height="30" as="geometry" />
+          <mxGeometry x="5236" y="2780" width="350" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uI9mQodt2XJDgny03Jzq-125" value="&lt;div&gt;&lt;b&gt;name&lt;/b&gt;: опциональное поле, которое можно заполнить вручную, &lt;br&gt;&lt;/div&gt;&lt;div&gt;или туда установятся данные из поля name соцсетей&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="5236" y="2692" width="390" height="40" as="geometry" />
+          <mxGeometry x="5236" y="2742" width="390" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uI9mQodt2XJDgny03Jzq-126" value="&lt;b&gt;accountStatus&lt;/b&gt;: пользователь активен или заблокирован" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="5236" y="2755" width="350" height="30" as="geometry" />
+          <mxGeometry x="5236" y="2805" width="350" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uI9mQodt2XJDgny03Jzq-127" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;accountType&lt;/b&gt;: простой пользователь или админ; может быть добавлен другой &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;тип в будущем&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="5236" y="2779" width="480" height="40" as="geometry" />
+          <mxGeometry x="5236" y="2829" width="480" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uI9mQodt2XJDgny03Jzq-128" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;registerDate&lt;/b&gt;: дата и время регистрации&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="5236" y="2815" width="260" height="30" as="geometry" />
+          <mxGeometry x="5236" y="2865" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uI9mQodt2XJDgny03Jzq-129" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;lastVisitDate&lt;/b&gt;: дата и время последнего входа&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="5236" y="2841" width="290" height="30" as="geometry" />
+          <mxGeometry x="5236" y="2891" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uI9mQodt2XJDgny03Jzq-132" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=block;html=1;rounded=0;startSize=12;endSize=12;targetPerimeterSpacing=12;entryX=0.186;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1" target="uI9mQodt2XJDgny03Jzq-121">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
