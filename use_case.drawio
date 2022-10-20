@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-20T12:06:33.168Z" agent="5.0 (Windows)" etag="kPxOyPVRONQgOHHea6PD" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-20T12:08:31.423Z" agent="5.0 (Windows)" etag="usmp1JEL4_36CcfY0cdG" version="20.4.1" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
     <mxGraphModel dx="1074" dy="1658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1591,10 +1591,10 @@
         <mxCell id="uI9mQodt2XJDgny03Jzq-119" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="5041" y="2740" width="170" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="uI9mQodt2XJDgny03Jzq-120" value="&lt;div align=&quot;left&quot;&gt;- userId: int&lt;br&gt;&lt;/div&gt;+ name: string&lt;div align=&quot;left&quot;&gt;- phone: string&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- loginStatus: string&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- accontStatus: string&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="uI9mQodt2XJDgny03Jzq-119">
+        <mxCell id="uI9mQodt2XJDgny03Jzq-120" value="&lt;div align=&quot;left&quot;&gt;- userId: int&lt;br&gt;&lt;/div&gt;+ name: string&lt;div align=&quot;left&quot;&gt;- loginStatus: string&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- accontStatus: string&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="uI9mQodt2XJDgny03Jzq-119">
           <mxGeometry y="20" width="170" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="uI9mQodt2XJDgny03Jzq-121" value="&lt;div align=&quot;left&quot;&gt;- canChangePassword(): ?&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- canChangeEmail(): ?&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- canReadUserEmail(): void&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;div align=&quot;left&quot;&gt;- canReadUserName(): void&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- canReadUserPhone(): void&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- canReadUserSocial(): void&lt;/div&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="uI9mQodt2XJDgny03Jzq-119">
+        <mxCell id="uI9mQodt2XJDgny03Jzq-121" value="&lt;div&gt;+login()&lt;/div&gt;&lt;div&gt;+register()&lt;/div&gt;&lt;div&gt;+updateProfile()&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="uI9mQodt2XJDgny03Jzq-119">
           <mxGeometry y="130" width="170" height="100" as="geometry" />
         </mxCell>
         <mxCell id="uI9mQodt2XJDgny03Jzq-122" value="User" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="uI9mQodt2XJDgny03Jzq-119">
