@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-20T14:17:16.212Z" agent="5.0 (Windows)" etag="ESgPkgmuBeBpVTttmKdW" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-20T14:19:56.519Z" agent="5.0 (Windows)" etag="W3Xq-c-WmGH8yCGttg2V" version="20.4.1" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
-    <mxGraphModel dx="1074" dy="1658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="889" dy="1562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1448,16 +1448,16 @@
           <mxGeometry width="220.00000000000003" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uI9mQodt2XJDgny03Jzq-68" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="4480" y="2480" width="200" height="230" as="geometry" />
+          <mxGeometry x="4480" y="2480" width="200" height="240" as="geometry" />
         </mxCell>
         <mxCell id="uI9mQodt2XJDgny03Jzq-69" value="&lt;div align=&quot;left&quot;&gt;+ transactionId: Int&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ transactionType: string (enum?)&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ categoryName: string (enum?)&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ transactionAmount: float&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ transactionDate: date&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ currency: string (enum?)&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ transactionComment: string&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="uI9mQodt2XJDgny03Jzq-68">
-          <mxGeometry y="30" width="200" height="120" as="geometry" />
+          <mxGeometry y="31.3" width="200" height="108.7" as="geometry" />
         </mxCell>
-        <mxCell id="uI9mQodt2XJDgny03Jzq-70" value="&lt;div align=&quot;left&quot;&gt;+ readWalletId()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ readWalletTotal()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ readCategoryId()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ readCategoryName()&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="uI9mQodt2XJDgny03Jzq-68">
-          <mxGeometry y="150" width="200" height="80" as="geometry" />
+        <mxCell id="uI9mQodt2XJDgny03Jzq-70" value="&lt;div align=&quot;left&quot;&gt;+ readWalletId()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ readWalletTotal()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ readCategoryId()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ readCategoryName()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ readCurrency()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ readCategoryIcon()&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="uI9mQodt2XJDgny03Jzq-68">
+          <mxGeometry y="140" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="uI9mQodt2XJDgny03Jzq-71" value="Transaction" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="uI9mQodt2XJDgny03Jzq-68">
-          <mxGeometry width="200" height="30.000000000000007" as="geometry" />
+          <mxGeometry width="200" height="31.304347826086964" as="geometry" />
         </mxCell>
         <mxCell id="uI9mQodt2XJDgny03Jzq-72" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="4840" y="2480" width="200" height="190" as="geometry" />
@@ -1519,10 +1519,10 @@
         <mxCell id="uI9mQodt2XJDgny03Jzq-90" value="0...*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="4442" y="2478" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uI9mQodt2XJDgny03Jzq-91" value="" style="endArrow=none;html=1;rounded=0;exitX=1.003;exitY=0.296;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;endSize=6;startArrow=diamondThin;startFill=1;startSize=12;" edge="1" parent="1" source="uI9mQodt2XJDgny03Jzq-69" target="uI9mQodt2XJDgny03Jzq-73">
+        <mxCell id="uI9mQodt2XJDgny03Jzq-91" value="" style="endArrow=none;html=1;rounded=0;endFill=0;endSize=6;startArrow=diamondThin;startFill=1;startSize=12;" edge="1" parent="1" source="uI9mQodt2XJDgny03Jzq-69">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="4720" y="2570" as="sourcePoint" />
-            <mxPoint x="4770" y="2520" as="targetPoint" />
+            <mxPoint x="4840" y="2570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uI9mQodt2XJDgny03Jzq-92" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -1655,13 +1655,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uI9mQodt2XJDgny03Jzq-138" value="&lt;div align=&quot;left&quot;&gt;Статистика основана на транзакциях&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Статистика может существать без транзакций (нулевой расход\приход)&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="4469" y="2744" width="440" height="40" as="geometry" />
+          <mxGeometry x="4477" y="2750" width="440" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uI9mQodt2XJDgny03Jzq-139" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="4569" y="2801" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uI9mQodt2XJDgny03Jzq-140" value="0...*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="4569" y="2707" width="40" height="30" as="geometry" />
+          <mxGeometry x="4569" y="2717" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
