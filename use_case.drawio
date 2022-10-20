@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-20T14:19:56.519Z" agent="5.0 (Windows)" etag="W3Xq-c-WmGH8yCGttg2V" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-20T14:21:16.415Z" agent="5.0 (Windows)" etag="2ycvfZTVEIuWcbPp7QA-" version="20.4.1" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
     <mxGraphModel dx="889" dy="1562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1472,16 +1472,16 @@
           <mxGeometry width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uI9mQodt2XJDgny03Jzq-76" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="5240" y="2480" width="170" height="190" as="geometry" />
+          <mxGeometry x="5200" y="2480" width="210" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="uI9mQodt2XJDgny03Jzq-77" value="&lt;div align=&quot;left&quot;&gt;+ video_id: Int&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ video_category: Enum&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ video_header: String&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ video_description: String&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ published: Boolean&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ video_file: ?&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="uI9mQodt2XJDgny03Jzq-76">
-          <mxGeometry y="20" width="170" height="88.57" as="geometry" />
+        <mxCell id="uI9mQodt2XJDgny03Jzq-77" value="&lt;div align=&quot;left&quot;&gt;+ videoId: int&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ videoCategory: string (enum?)&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ videoHeader: string&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ videoDescription: string&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ published: boolean&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ videoFile: ?&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="uI9mQodt2XJDgny03Jzq-76">
+          <mxGeometry y="20" width="210" height="110" as="geometry" />
         </mxCell>
         <mxCell id="uI9mQodt2XJDgny03Jzq-78" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="uI9mQodt2XJDgny03Jzq-76">
-          <mxGeometry y="108.57142857142857" width="170" height="81.42857142857142" as="geometry" />
+          <mxGeometry y="130" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uI9mQodt2XJDgny03Jzq-79" value="Video" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="uI9mQodt2XJDgny03Jzq-76">
-          <mxGeometry width="170" height="20" as="geometry" />
+          <mxGeometry width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uI9mQodt2XJDgny03Jzq-80" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="5460" y="2480" width="150" height="140" as="geometry" />
