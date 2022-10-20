@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-20T14:06:38.016Z" agent="5.0 (Windows)" etag="NTS-8AiuNsbeLeI9pB96" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-20T14:07:45.416Z" agent="5.0 (Windows)" etag="bgKCb0bYsrczOWYp4HC3" version="20.4.1" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
     <mxGraphModel dx="1074" dy="1658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1553,16 +1553,16 @@
           <mxGeometry width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uI9mQodt2XJDgny03Jzq-106" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="5330" y="3070" width="170" height="190" as="geometry" />
+          <mxGeometry x="5330" y="3070" width="170" height="220" as="geometry" />
         </mxCell>
         <mxCell id="uI9mQodt2XJDgny03Jzq-107" value="&lt;div&gt;- email: string&lt;/div&gt;&lt;div&gt;- phone: string&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="uI9mQodt2XJDgny03Jzq-106">
-          <mxGeometry y="20" width="170" height="50" as="geometry" />
+          <mxGeometry y="23.157894736842106" width="170" height="57.89473684210527" as="geometry" />
         </mxCell>
-        <mxCell id="uI9mQodt2XJDgny03Jzq-108" value="&lt;div align=&quot;left&quot;&gt;- banUser()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- addVideo()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- updateVideo()&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- addHelp()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- updateHelp()&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- searchUsers()&lt;br&gt;&lt;/div&gt;&lt;div&gt;- viewUserAccount()&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="uI9mQodt2XJDgny03Jzq-106">
-          <mxGeometry y="70" width="170" height="120" as="geometry" />
+        <mxCell id="uI9mQodt2XJDgny03Jzq-108" value="&lt;div align=&quot;left&quot;&gt;- addVideo()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- updateVideo()&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- addHelp()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- updateHelp()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- viewUserList()&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- searchUser()&lt;br&gt;&lt;/div&gt;&lt;div&gt;- viewUserAccount()&lt;/div&gt;&lt;div&gt;- banUser()&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="uI9mQodt2XJDgny03Jzq-106">
+          <mxGeometry y="81.05263157894737" width="170" height="138.94736842105263" as="geometry" />
         </mxCell>
         <mxCell id="uI9mQodt2XJDgny03Jzq-109" value="Admin" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="uI9mQodt2XJDgny03Jzq-106">
-          <mxGeometry width="170" height="20" as="geometry" />
+          <mxGeometry width="170" height="23.157894736842106" as="geometry" />
         </mxCell>
         <mxCell id="uI9mQodt2XJDgny03Jzq-111" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="4941" y="3070" width="170" height="230" as="geometry" />
