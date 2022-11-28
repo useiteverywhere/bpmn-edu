@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-28T17:44:50.901Z" agent="5.0 (Windows)" etag="iXHYFTre_AASgEEV5rqb" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-28T17:51:18.885Z" agent="5.0 (Windows)" etag="HRB60-yrtcvAZNx6cLYl" version="20.5.1" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
-    <mxGraphModel dx="582" dy="1844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1133" dy="3231" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -229,13 +229,13 @@
             <mxPoint x="4506.000000000008" y="-92" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9JSYzaQLczRlGTcXWpsd-1" value="" style="whiteSpace=wrap;html=1;fontSize=10;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="9JSYzaQLczRlGTcXWpsd-1" value="" style="whiteSpace=wrap;html=1;fontSize=10;fillColor=none;strokeWidth=2;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="3769" y="-985" width="800" height="780" as="geometry" />
         </mxCell>
         <mxCell id="9JSYzaQLczRlGTcXWpsd-2" value="Войти по имейлу" style="ellipse;whiteSpace=wrap;html=1;flipH=1;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="4196" y="-565" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9JSYzaQLczRlGTcXWpsd-3" value="Просмотреть личный кабинет" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="9JSYzaQLczRlGTcXWpsd-3" value="Просмотреть личный кабинет" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="3803" y="-733" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9JSYzaQLczRlGTcXWpsd-4" value="Забанить пользователя" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -325,7 +325,7 @@
             <mxPoint x="4096.193666659245" y="-483.41031232958767" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9JSYzaQLczRlGTcXWpsd-43" value="Просмотреть раздел админ-ия" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="9JSYzaQLczRlGTcXWpsd-43" value="Просмотреть раздел админ-ия" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="3845" y="-975" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9JSYzaQLczRlGTcXWpsd-44" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=10;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1;strokeColor=#000000;" parent="1" source="9JSYzaQLczRlGTcXWpsd-33" target="9JSYzaQLczRlGTcXWpsd-3" edge="1">
@@ -934,8 +934,35 @@
         <mxCell id="uI9mQodt2XJDgny03Jzq-140" value="0...*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1959" y="-791" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kcM0AiJL5Ays4Nl7kcId-7" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3749" y="-1060" width="40" height="20" as="geometry" />
+        <mxCell id="kcM0AiJL5Ays4Nl7kcId-7" value="&lt;div align=&quot;left&quot;&gt;На макете Личный кабинет и Раздел администрирования - это одно и то же окно, &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;просто у админа добавлено больше функций. Стоит ли создать вюзкейсе&amp;nbsp; одну сущность ЛК, а &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Просмотреть раздел администрирования и Просмотреть личный кабинет сделать наследованием?&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3764" y="-1140" width="600" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kcM0AiJL5Ays4Nl7kcId-8" value="&lt;div align=&quot;left&quot;&gt;На странице со списком пользователей админ может открыть карточку пользователя, &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;то есть должно быть расширение Просмотреть карточку пользователя в юзкейсе&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3764" y="-1080" width="530" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kcM0AiJL5Ays4Nl7kcId-9" value="Просмотреть карточку пользователя" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="4086" y="-849" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kcM0AiJL5Ays4Nl7kcId-10" value="&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;flipV=1;flipH=1;rotation=-35;" vertex="1" parent="1">
+          <mxGeometry x="4230" y="-895" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kcM0AiJL5Ays4Nl7kcId-11" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;strokeWidth=1;strokeColor=#FF8000;" edge="1" parent="1" source="9JSYzaQLczRlGTcXWpsd-4" target="kcM0AiJL5Ays4Nl7kcId-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4296" y="-925" as="sourcePoint" />
+            <mxPoint x="4216" y="-925" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kcM0AiJL5Ays4Nl7kcId-12" value="extend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;flipV=1;flipH=1;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="4210" y="-895" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kcM0AiJL5Ays4Nl7kcId-14" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;strokeWidth=1;strokeColor=#FF8000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="kcM0AiJL5Ays4Nl7kcId-9" target="9JSYzaQLczRlGTcXWpsd-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4296" y="-925" as="sourcePoint" />
+            <mxPoint x="4216" y="-925" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kcM0AiJL5Ays4Nl7kcId-15" value="extend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;flipV=1;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="4094" y="-885" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
