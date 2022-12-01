@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-01T20:17:37.074Z" agent="5.0 (Windows)" etag="fzvsWcbPvb1zBf3V68IA" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-01T20:25:59.393Z" agent="5.0 (Windows)" etag="_IKKznpGEjUWNEg_bTw8" version="20.6.0" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
-    <mxGraphModel dx="224" dy="2758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="439" dy="2870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -940,13 +940,13 @@
         <mxCell id="kcM0AiJL5Ays4Nl7kcId-8" value="&lt;div align=&quot;left&quot;&gt;На странице со списком пользователей админ может открыть карточку пользователя, &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;то есть должно быть расширение Просмотреть карточку пользователя в юзкейсе&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="3764" y="-1080" width="530" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kcM0AiJL5Ays4Nl7kcId-9" value="Просмотреть карточку пользователя" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FF8000;" parent="1" vertex="1">
+        <mxCell id="kcM0AiJL5Ays4Nl7kcId-9" value="Просмотреть карточку пользователя" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="4086" y="-849" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kcM0AiJL5Ays4Nl7kcId-10" value="&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;flipV=1;flipH=1;rotation=-35;" parent="1" vertex="1">
           <mxGeometry x="4230" y="-895" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kcM0AiJL5Ays4Nl7kcId-11" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;strokeWidth=1;strokeColor=#FF8000;" parent="1" source="9JSYzaQLczRlGTcXWpsd-4" target="kcM0AiJL5Ays4Nl7kcId-9" edge="1">
+        <mxCell id="kcM0AiJL5Ays4Nl7kcId-11" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;strokeWidth=1;strokeColor=#FF3333;" parent="1" source="9JSYzaQLczRlGTcXWpsd-4" target="kcM0AiJL5Ays4Nl7kcId-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="4296" y="-925" as="sourcePoint" />
             <mxPoint x="4216" y="-925" as="targetPoint" />
@@ -955,7 +955,7 @@
         <mxCell id="kcM0AiJL5Ays4Nl7kcId-12" value="extend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;flipV=1;flipH=1;rotation=-30;" parent="1" vertex="1">
           <mxGeometry x="4210" y="-895" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kcM0AiJL5Ays4Nl7kcId-14" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;strokeWidth=1;strokeColor=#FF8000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="kcM0AiJL5Ays4Nl7kcId-9" target="9JSYzaQLczRlGTcXWpsd-5" edge="1">
+        <mxCell id="kcM0AiJL5Ays4Nl7kcId-14" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;strokeWidth=1;strokeColor=#FF3333;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="kcM0AiJL5Ays4Nl7kcId-9" target="9JSYzaQLczRlGTcXWpsd-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="4296" y="-925" as="sourcePoint" />
             <mxPoint x="4216" y="-925" as="targetPoint" />
