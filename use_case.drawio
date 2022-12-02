@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-02T15:54:58.458Z" agent="5.0 (Windows)" etag="VP5ez5J4A67XIgf3ObKB" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-02T15:58:52.577Z" agent="5.0 (Windows)" etag="Qy0QdjBD0tNUWJ-59WIu" version="20.6.0" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
-    <mxGraphModel dx="47" dy="2695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="440" dy="2911" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -539,7 +539,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9JSYzaQLczRlGTcXWpsd-224" value="" style="whiteSpace=wrap;html=1;fontSize=10;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="4734" y="-983" width="796" height="495" as="geometry" />
+          <mxGeometry x="4734" y="-983" width="796" height="653" as="geometry" />
         </mxCell>
         <mxCell id="9JSYzaQLczRlGTcXWpsd-225" value="Выбрать валюту при внесении данных" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="5194" y="-953" width="120" height="80" as="geometry" />
@@ -625,7 +625,7 @@
             <mxPoint x="4695" y="-768.0000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9JSYzaQLczRlGTcXWpsd-249" value="Просмотреть список транзакций" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="9JSYzaQLczRlGTcXWpsd-249" value="&lt;div&gt;Просмотреть &lt;br&gt;&lt;/div&gt;&lt;div&gt;список &lt;br&gt;&lt;/div&gt;&lt;div&gt;транзакций&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4804" y="-703" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9JSYzaQLczRlGTcXWpsd-250" value="" style="endArrow=none;html=1;rounded=0;fontSize=10;" parent="1" source="9JSYzaQLczRlGTcXWpsd-249" target="9JSYzaQLczRlGTcXWpsd-245" edge="1">
@@ -972,6 +972,15 @@
         </mxCell>
         <mxCell id="iODPigfj3wq9sQxKqqd6-5" value="extend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;flipV=1;flipH=1;rotation=30;" vertex="1" parent="1">
           <mxGeometry x="4004" y="-588" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iODPigfj3wq9sQxKqqd6-6" value="&lt;div&gt;Просмотреть &lt;br&gt;&lt;/div&gt;&lt;div&gt;список&lt;/div&gt;&lt;div&gt;категорий&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4804" y="-493" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iODPigfj3wq9sQxKqqd6-7" value="&lt;div&gt;Редактировать&lt;/div&gt;&lt;div&gt;категорию&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5044" y="-493" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iODPigfj3wq9sQxKqqd6-8" value="&lt;div&gt;Удалить&lt;/div&gt;&lt;div&gt;категорию&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5244" y="-493" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
