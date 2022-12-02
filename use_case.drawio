@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-02T17:03:47.959Z" agent="5.0 (Windows)" etag="aSqlYsP7MaKUhQSRxSEc" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-02T17:43:57.329Z" agent="5.0 (Windows)" etag="uI-bd7lL0RNq9RteV7Vs" version="20.6.0" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
-    <mxGraphModel dx="182" dy="2769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="440" dy="2911" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -962,7 +962,7 @@
           <mxGeometry x="4004" y="-588" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iODPigfj3wq9sQxKqqd6-8" value="&lt;div&gt;Удалить&lt;/div&gt;&lt;div&gt;категорию&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="5240" y="-428" width="120" height="80" as="geometry" />
+          <mxGeometry x="5234" y="-428" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iODPigfj3wq9sQxKqqd6-11" value="&lt;div&gt;Выбрать &lt;br&gt;&lt;/div&gt;&lt;div&gt;категорию&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="5234" y="-847" width="120" height="80" as="geometry" />
@@ -998,7 +998,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iODPigfj3wq9sQxKqqd6-20" value="extend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;rotation=45;" vertex="1" parent="1">
-          <mxGeometry x="5169" y="-468" width="50" height="30" as="geometry" />
+          <mxGeometry x="5169" y="-458" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iODPigfj3wq9sQxKqqd6-22" value="&lt;div&gt;Редактировать&lt;/div&gt;&lt;div&gt;категорию&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="5022" y="-428" width="120" height="80" as="geometry" />
