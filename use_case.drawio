@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-02T15:58:52.577Z" agent="5.0 (Windows)" etag="Qy0QdjBD0tNUWJ-59WIu" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-02T16:05:12.774Z" agent="5.0 (Windows)" etag="gNj7n4NhysdxrSgZLGuo" version="20.6.0" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
     <mxGraphModel dx="440" dy="2911" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -977,10 +977,10 @@
           <mxGeometry x="4804" y="-493" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iODPigfj3wq9sQxKqqd6-7" value="&lt;div&gt;Редактировать&lt;/div&gt;&lt;div&gt;категорию&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5044" y="-493" width="120" height="80" as="geometry" />
+          <mxGeometry x="5029" y="-583" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iODPigfj3wq9sQxKqqd6-8" value="&lt;div&gt;Удалить&lt;/div&gt;&lt;div&gt;категорию&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5244" y="-493" width="120" height="80" as="geometry" />
+          <mxGeometry x="5029" y="-460" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
