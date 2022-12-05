@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-05T15:02:23.430Z" agent="5.0 (Windows)" etag="_FKW1cTkLbIKuK9hq3Aw" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-05T15:03:46.330Z" agent="5.0 (Windows)" etag="hnF2YB6BKK_Y1-wtCvsV" version="20.6.0" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
     <mxGraphModel dx="446" dy="2885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -100,7 +100,7 @@
             <mxPoint x="5159" y="123" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iH67yDx8k5spiiFpo-aq-98" value="&lt;div&gt;Просмотреть &lt;br&gt;&lt;/div&gt;&lt;div&gt;отчет&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
+        <mxCell id="iH67yDx8k5spiiFpo-aq-98" value="Просмотреть отчет (статистику)" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="3839" y="18" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iH67yDx8k5spiiFpo-aq-99" value="extend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;rotation=45;" parent="1" vertex="1">
