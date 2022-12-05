@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-05T15:03:46.330Z" agent="5.0 (Windows)" etag="hnF2YB6BKK_Y1-wtCvsV" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-05T17:44:19.136Z" agent="5.0 (Windows)" etag="VEGTbPVvoYiBgzOK1uLt" version="20.6.0" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
     <mxGraphModel dx="446" dy="2885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="iH67yDx8k5spiiFpo-aq-93" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=10;fillColor=none;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="5099" y="-150" width="431" height="431" as="geometry" />
         </mxCell>
-        <mxCell id="iH67yDx8k5spiiFpo-aq-19" value="Выбрать месяц отчета" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="iH67yDx8k5spiiFpo-aq-19" value="Выбрать период по умолчанию" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4059" y="-122" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iH67yDx8k5spiiFpo-aq-20" value="Выбрать другой период отчета" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
