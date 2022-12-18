@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-18T19:07:08.219Z" agent="5.0 (Windows)" etag="sGAP8WD4ITCnV9FwEPch" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-18T19:07:44.776Z" agent="5.0 (Windows)" etag="jERoS7-zzjSMWA8WRSY6" version="20.7.4" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
     <mxGraphModel dx="-107" dy="2589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,10 +13,10 @@
         <mxCell id="iH67yDx8k5spiiFpo-aq-93" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=10;fillColor=none;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="5099" y="-150" width="431" height="431" as="geometry" />
         </mxCell>
-        <mxCell id="iH67yDx8k5spiiFpo-aq-19" value="Выбрать период по умолчанию" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="iH67yDx8k5spiiFpo-aq-19" value="&lt;div&gt;&lt;b&gt;UC-0014rprt&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Выбрать период по умолчанию&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4059" y="-122" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iH67yDx8k5spiiFpo-aq-20" value="Выбрать другой период отчета" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="iH67yDx8k5spiiFpo-aq-20" value="&lt;div&gt;&lt;b&gt;UC-0014rprt&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Выбрать другой период отчета&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4059" y="18" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iH67yDx8k5spiiFpo-aq-22" value="Опубликовать видео" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
@@ -34,7 +34,7 @@
         <mxCell id="iH67yDx8k5spiiFpo-aq-26" value="&lt;div&gt;Просмотреть &lt;br&gt;&lt;/div&gt;&lt;div&gt;видео&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="4506" y="-132" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iH67yDx8k5spiiFpo-aq-33" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Исключить/вернуть&lt;/div&gt;&lt;div&gt;категории для отчета&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="iH67yDx8k5spiiFpo-aq-33" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;UC-0014rprt&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Исключить/вернуть&lt;/div&gt;&lt;div&gt;категории для отчета&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4059" y="151" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iH67yDx8k5spiiFpo-aq-42" value="extend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="1" vertex="1">
