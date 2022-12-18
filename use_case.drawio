@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-18T20:18:46.334Z" agent="5.0 (Windows)" etag="_y33GNzlzNEaFzO1MNSV" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-18T20:19:38.553Z" agent="5.0 (Windows)" etag="rMVoLucicphk4-5HsB1m" version="20.7.4" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
-    <mxGraphModel dx="78" dy="2687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="461" dy="2887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -566,7 +566,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9JSYzaQLczRlGTcXWpsd-238" value="include" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;flipV=1;flipH=1;rotation=-55;" parent="1" vertex="1">
-          <mxGeometry x="5164" y="-713" width="60" height="30" as="geometry" />
+          <mxGeometry x="5164" y="-780" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9JSYzaQLczRlGTcXWpsd-240" value="extend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="4948" y="-707" width="50" height="30" as="geometry" />
@@ -973,14 +973,14 @@
         <mxCell id="iODPigfj3wq9sQxKqqd6-22" value="&lt;div&gt;&lt;b&gt;UC-0015ctg&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Редактировать&lt;/div&gt;&lt;div&gt;категорию&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="5002" y="-428" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iODPigfj3wq9sQxKqqd6-23" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;strokeWidth=1;strokeColor=#FF0000;" parent="1" edge="1">
+        <mxCell id="iODPigfj3wq9sQxKqqd6-23" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;strokeWidth=1;strokeColor=#FF0000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1" target="9JSYzaQLczRlGTcXWpsd-230" source="iODPigfj3wq9sQxKqqd6-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="5080" y="-430" as="sourcePoint" />
             <mxPoint x="5080" y="-470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iODPigfj3wq9sQxKqqd6-24" value="extend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;rotation=0;" parent="1" vertex="1">
-          <mxGeometry x="5027" y="-465" width="50" height="30" as="geometry" />
+          <mxGeometry x="5010" y="-461" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AupXRFNTpzNSSPA5rEcJ-1" value="Искать пользователя" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="4366" y="-849" width="120" height="80" as="geometry" />
@@ -1034,7 +1034,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FZ3_jvsreGpv2gmgdtba-8" value="extend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;rotation=-30;" vertex="1" parent="1">
-          <mxGeometry x="5142" y="-1060" width="50" height="30" as="geometry" />
+          <mxGeometry x="5142" y="-1047" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FZ3_jvsreGpv2gmgdtba-9" value="&lt;div&gt;&lt;b&gt;UC-0012trns&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Добавить или редактировать &lt;br&gt;&lt;/div&gt;&lt;div&gt;транзакцию&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5002" y="-1010" width="120" height="80" as="geometry" />
