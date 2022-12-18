@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-18T19:07:44.776Z" agent="5.0 (Windows)" etag="jERoS7-zzjSMWA8WRSY6" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-18T19:13:23.992Z" agent="5.0 (Windows)" etag="t7yGbTfr-CfS_s-JKPL0" version="20.7.4" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
     <mxGraphModel dx="-107" dy="2589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="iH67yDx8k5spiiFpo-aq-20" value="&lt;div&gt;&lt;b&gt;UC-0014rprt&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Выбрать другой период отчета&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4059" y="18" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iH67yDx8k5spiiFpo-aq-22" value="Опубликовать видео" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
+        <mxCell id="iH67yDx8k5spiiFpo-aq-22" value="&lt;div&gt;&lt;div&gt;&lt;b&gt;UC-0017vd&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Опубликовать видео&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="4726" y="71" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iH67yDx8k5spiiFpo-aq-23" value="Удалить видео" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
@@ -28,7 +28,7 @@
         <mxCell id="iH67yDx8k5spiiFpo-aq-24" value="Редактировать видео" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="4506" y="71" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iH67yDx8k5spiiFpo-aq-25" value="&lt;div&gt;Добавить видео&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
+        <mxCell id="iH67yDx8k5spiiFpo-aq-25" value="&lt;div&gt;&lt;b&gt;UC-0017vd&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Добавить видео&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="4506" y="-31" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iH67yDx8k5spiiFpo-aq-26" value="&lt;div&gt;Просмотреть &lt;br&gt;&lt;/div&gt;&lt;div&gt;видео&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
@@ -1032,6 +1032,15 @@
         </mxCell>
         <mxCell id="AJipidpL_pZpvwr-WeQe-2" value="extend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;flipV=1;flipH=1;rotation=45;" parent="1" vertex="1">
           <mxGeometry x="3987" y="-867" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FZ3_jvsreGpv2gmgdtba-1" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;strokeColor=#000000;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="iH67yDx8k5spiiFpo-aq-22" target="iH67yDx8k5spiiFpo-aq-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4736" y="121" as="sourcePoint" />
+            <mxPoint x="4636" y="121" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FZ3_jvsreGpv2gmgdtba-2" value="extend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="4656" y="28" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
