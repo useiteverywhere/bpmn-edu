@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-18T20:27:32.106Z" agent="5.0 (Windows)" etag="lJF6km4AnOLA7m1ObC1A" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-19T18:23:36.964Z" agent="5.0 (Windows)" etag="9IGj63lyQU3EltTdgeMG" version="20.7.4" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
-    <mxGraphModel dx="1935" dy="3660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1378" dy="3368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -946,7 +946,7 @@
             <mxPoint x="5150" y="-810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iODPigfj3wq9sQxKqqd6-14" value="" style="endArrow=none;html=1;rounded=0;fontSize=10;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;" parent="1" source="9JSYzaQLczRlGTcXWpsd-230" target="9JSYzaQLczRlGTcXWpsd-245" edge="1">
+        <mxCell id="iODPigfj3wq9sQxKqqd6-14" value="с" style="endArrow=none;html=1;rounded=0;fontSize=10;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;" parent="1" source="9JSYzaQLczRlGTcXWpsd-230" target="9JSYzaQLczRlGTcXWpsd-245" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="4824.384409875828" y="-675.4924008562912" as="sourcePoint" />
             <mxPoint x="4724" y="-721.1818181818182" as="targetPoint" />
