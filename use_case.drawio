@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-19T19:11:35.640Z" agent="5.0 (Windows)" etag="sgx0af46t7ex7dNAtzqi" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-19T20:10:25.748Z" agent="5.0 (Windows)" etag="znlpnCTgDbBD2RpKDcWq" version="20.7.4" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
     <mxGraphModel dx="1485" dy="2979" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -284,7 +284,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9JSYzaQLczRlGTcXWpsd-33" value="Сменить пароль" style="ellipse;whiteSpace=wrap;html=1;flipH=1;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="4086" y="-733" width="120" height="80" as="geometry" />
+          <mxGeometry x="4374" y="-733" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9JSYzaQLczRlGTcXWpsd-35" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=10;strokeColor=#000000;strokeWidth=1;" parent="1" source="9JSYzaQLczRlGTcXWpsd-97" target="9JSYzaQLczRlGTcXWpsd-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
