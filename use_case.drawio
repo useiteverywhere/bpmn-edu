@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-19T18:23:36.964Z" agent="5.0 (Windows)" etag="9IGj63lyQU3EltTdgeMG" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-19T18:50:57.775Z" agent="5.0 (Windows)" etag="Ot9CqT4_ln3oh3wYgyIr" version="20.7.4" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
-    <mxGraphModel dx="1378" dy="3368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="543" dy="2930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -220,7 +220,7 @@
         <mxCell id="9JSYzaQLczRlGTcXWpsd-1" value="" style="whiteSpace=wrap;html=1;fontSize=10;fillColor=none;strokeWidth=2;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="3769" y="-985" width="800" height="805" as="geometry" />
         </mxCell>
-        <mxCell id="9JSYzaQLczRlGTcXWpsd-2" value="&lt;div&gt;&lt;b&gt;UC-0001reg&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Войти по имейлу&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;flipH=1;strokeColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="9JSYzaQLczRlGTcXWpsd-2" value="Войти по имейлу" style="ellipse;whiteSpace=wrap;html=1;flipH=1;strokeColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="4086" y="-565" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9JSYzaQLczRlGTcXWpsd-3" value="Просмотреть личный кабинет" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FF0000;" parent="1" vertex="1">
@@ -946,7 +946,7 @@
             <mxPoint x="5150" y="-810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iODPigfj3wq9sQxKqqd6-14" value="с" style="endArrow=none;html=1;rounded=0;fontSize=10;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;" parent="1" source="9JSYzaQLczRlGTcXWpsd-230" target="9JSYzaQLczRlGTcXWpsd-245" edge="1">
+        <mxCell id="iODPigfj3wq9sQxKqqd6-14" value="" style="endArrow=none;html=1;rounded=0;fontSize=10;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;" parent="1" source="9JSYzaQLczRlGTcXWpsd-230" target="9JSYzaQLczRlGTcXWpsd-245" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="4824.384409875828" y="-675.4924008562912" as="sourcePoint" />
             <mxPoint x="4724" y="-721.1818181818182" as="targetPoint" />
@@ -1062,6 +1062,72 @@
         </mxCell>
         <mxCell id="FZ3_jvsreGpv2gmgdtba-14" value="&lt;div&gt;Войти по аккаунту&lt;/div&gt;&lt;div&gt;&amp;nbsp;VKontakte&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="4086" y="-370" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FZ3_jvsreGpv2gmgdtba-15" value="" style="whiteSpace=wrap;html=1;fontSize=10;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3139.5" y="-920" width="500.5" height="345" as="geometry" />
+        </mxCell>
+        <mxCell id="FZ3_jvsreGpv2gmgdtba-16" value="&lt;div&gt;&lt;b&gt;UC-0014rprt&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Выбрать период по умолчанию&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3498" y="-940.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FZ3_jvsreGpv2gmgdtba-17" value="&lt;div&gt;&lt;b&gt;UC-0014rprt&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Выбрать другой период отчета&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3498" y="-800.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FZ3_jvsreGpv2gmgdtba-18" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;UC-0014rprt&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Исключить/вернуть&lt;/div&gt;&lt;div&gt;категории для отчета&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3498" y="-667.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FZ3_jvsreGpv2gmgdtba-19" value="&lt;div&gt;Просмотреть личный кабинет&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="3218" y="-800.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FZ3_jvsreGpv2gmgdtba-20" value="extend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;rotation=45;" vertex="1" parent="1">
+          <mxGeometry x="3426" y="-703.5" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FZ3_jvsreGpv2gmgdtba-22" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="3058" y="-790.5" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FZ3_jvsreGpv2gmgdtba-23" value="" style="endArrow=none;html=1;rounded=0;fontSize=10;" edge="1" parent="1" source="FZ3_jvsreGpv2gmgdtba-22" target="FZ3_jvsreGpv2gmgdtba-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3198" y="-825.5" as="sourcePoint" />
+            <mxPoint x="3278" y="-845.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FZ3_jvsreGpv2gmgdtba-25" value="extend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;rotation=-35;" vertex="1" parent="1">
+          <mxGeometry x="3419" y="-865.5" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FZ3_jvsreGpv2gmgdtba-26" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;exitX=0.048;exitY=0.757;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FZ3_jvsreGpv2gmgdtba-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3498" y="-917.5" as="sourcePoint" />
+            <mxPoint x="3410" y="-830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FZ3_jvsreGpv2gmgdtba-27" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1" source="FZ3_jvsreGpv2gmgdtba-17" target="FZ3_jvsreGpv2gmgdtba-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3508" y="-907.5" as="sourcePoint" />
+            <mxPoint x="3398" y="-775.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FZ3_jvsreGpv2gmgdtba-28" value="&amp;nbsp;" style="endArrow=classic;html=1;rounded=0;dashed=1;exitX=0.024;exitY=0.404;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FZ3_jvsreGpv2gmgdtba-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3510.4380699057256" y="-788.2133470403387" as="sourcePoint" />
+            <mxPoint x="3440" y="-670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FZ3_jvsreGpv2gmgdtba-29" value="" style="endArrow=block;html=1;rounded=0;fontSize=10;endFill=0;" edge="1" parent="1" target="FZ3_jvsreGpv2gmgdtba-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3108" y="-707.6875" as="sourcePoint" />
+            <mxPoint x="3258" y="-685.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FZ3_jvsreGpv2gmgdtba-30" value="" style="endArrow=block;html=1;rounded=0;fontSize=10;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3108" y="-821.6538461538462" as="sourcePoint" />
+            <mxPoint x="3158" y="-775.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FZ3_jvsreGpv2gmgdtba-31" value="extend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="3426" y="-790.5" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FZ3_jvsreGpv2gmgdtba-34" value="&lt;div&gt;Просмотреть личный кабинет&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="3270" y="-685" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
