@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-20T16:51:58.621Z" agent="5.0 (Windows)" etag="bph43I3l5DowIVqQTzl-" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-20T16:55:54.263Z" agent="5.0 (Windows)" etag="mudk0aO-bcVdG1b8aEyM" version="20.7.4" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
     <mxGraphModel dx="635" dy="2790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -220,7 +220,7 @@
             <mxPoint x="4490.000000000008" y="-92" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9JSYzaQLczRlGTcXWpsd-5" value="&lt;div&gt;Просмотреть &lt;br&gt;&lt;/div&gt;&lt;div&gt;список пользователей&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="9JSYzaQLczRlGTcXWpsd-5" value="&lt;div&gt;&lt;b&gt;UC-0001usr&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Просмотреть &lt;br&gt;&lt;/div&gt;&lt;div&gt;список пользователей&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3160" y="18" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9JSYzaQLczRlGTcXWpsd-9" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;strokeWidth=1;strokeColor=#000000;" parent="1" source="9JSYzaQLczRlGTcXWpsd-4" target="9JSYzaQLczRlGTcXWpsd-5" edge="1">
@@ -595,7 +595,7 @@
         <mxCell id="kcM0AiJL5Ays4Nl7kcId-8" value="&lt;div align=&quot;left&quot;&gt;На странице со списком пользователей админ может открыть карточку пользователя, &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;то есть должно быть расширение Просмотреть карточку пользователя в юзкейсе&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="3140" y="-1070" width="530" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kcM0AiJL5Ays4Nl7kcId-9" value="Просмотреть карточку пользователя" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FF3333;" parent="1" vertex="1">
+        <mxCell id="kcM0AiJL5Ays4Nl7kcId-9" value="&lt;div&gt;&lt;b&gt;UC-0001usr&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Просмотреть карточку пользователя&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="3302" y="172" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kcM0AiJL5Ays4Nl7kcId-11" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;strokeWidth=1;strokeColor=#FF3333;" parent="1" source="9JSYzaQLczRlGTcXWpsd-4" target="kcM0AiJL5Ays4Nl7kcId-9" edge="1">
@@ -643,7 +643,7 @@
             <mxPoint x="3390" y="-86" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9JSYzaQLczRlGTcXWpsd-4" value="Забанить пользователя" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="9JSYzaQLczRlGTcXWpsd-4" value="&lt;div&gt;&lt;b&gt;UC-0001usr&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Забанить пользователя&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3430" y="18" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9JSYzaQLczRlGTcXWpsd-10" value="extend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;flipV=1;flipH=1;rotation=0;" parent="1" vertex="1">
@@ -652,7 +652,7 @@
         <mxCell id="FZ3_jvsreGpv2gmgdtba-41" value="extend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;flipV=1;flipH=1;rotation=50;" parent="1" vertex="1">
           <mxGeometry x="3270" y="123" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AupXRFNTpzNSSPA5rEcJ-1" value="Искать пользователя" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="AupXRFNTpzNSSPA5rEcJ-1" value="&lt;div&gt;&lt;b&gt;UC-0001usr&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Искать пользователя&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="3302" y="-132" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FZ3_jvsreGpv2gmgdtba-43" value="extend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;flipV=1;flipH=1;rotation=-45;" parent="1" vertex="1">
