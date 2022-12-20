@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-20T16:56:29.881Z" agent="5.0 (Windows)" etag="K4Vr5lmDKIt9qyQNmst0" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-20T16:59:06.061Z" agent="5.0 (Windows)" etag="N_bc3UTRisafKmr8W5Tb" version="20.7.4" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
     <mxGraphModel dx="934" dy="3068" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -787,7 +787,7 @@
             <mxPoint x="3344.88" y="-452.2399999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="31j3wq-KUqzsOCqXotkS-39" value="&lt;div&gt;Зарегистр-ся&lt;/div&gt;&lt;div&gt;по имейлу&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;flipH=1;strokeColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="31j3wq-KUqzsOCqXotkS-39" value="&lt;div&gt;&lt;b&gt;UC-0002reg&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Зарегистр-ся&lt;/div&gt;&lt;div&gt;по имейлу&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;flipH=1;strokeColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="3209" y="-603" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="31j3wq-KUqzsOCqXotkS-41" value="Авторизоваться в приложении" style="ellipse;whiteSpace=wrap;html=1;flipH=1;" parent="1" vertex="1">
