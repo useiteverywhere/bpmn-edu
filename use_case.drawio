@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-20T17:14:15.918Z" agent="5.0 (Windows)" etag="_c77NiG61kZnb-CafbVN" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-20T17:14:47.386Z" agent="5.0 (Windows)" etag="liEQDPO1UJKN2BLlY14u" version="20.7.4" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
     <mxGraphModel dx="794" dy="2938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -757,7 +757,7 @@
             <mxPoint x="3265" y="-785" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="31j3wq-KUqzsOCqXotkS-30" value="&lt;div&gt;Восстановить&lt;/div&gt;&lt;div&gt;пароль&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;flipH=1;strokeColor=#000000;" parent="1" vertex="1">
+        <mxCell id="31j3wq-KUqzsOCqXotkS-30" value="&lt;div&gt;&lt;b&gt;UC-0003pwd&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Восстановить&lt;/div&gt;&lt;div&gt;пароль&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;flipH=1;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="3620" y="-824" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="31j3wq-KUqzsOCqXotkS-31" value="&lt;div&gt;&lt;b&gt;UC-0001reg&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Ввести код&lt;/div&gt;&lt;div&gt;из смс&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;flipH=1;strokeColor=#000000;strokeWidth=1;" parent="1" vertex="1">
