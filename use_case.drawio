@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-20T15:40:40.923Z" agent="5.0 (Windows)" etag="6EqyhHkujVKdCAhv8qEb" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-20T16:51:58.621Z" agent="5.0 (Windows)" etag="bph43I3l5DowIVqQTzl-" version="20.7.4" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
-    <mxGraphModel dx="756" dy="2903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="635" dy="2790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,10 +16,10 @@
         <mxCell id="iH67yDx8k5spiiFpo-aq-93" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=10;fillColor=none;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="5083" y="-150" width="430" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="iH67yDx8k5spiiFpo-aq-19" value="&lt;div&gt;&lt;b&gt;UC-0014rprt&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Выбрать период по умолчанию&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="iH67yDx8k5spiiFpo-aq-19" value="&lt;b&gt;UC-0001rprt&lt;/b&gt;&lt;div&gt;Поменять период по умолчанию&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4043" y="-132" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iH67yDx8k5spiiFpo-aq-20" value="&lt;div&gt;&lt;b&gt;UC-0014rprt&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Выбрать другой период отчета&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="iH67yDx8k5spiiFpo-aq-20" value="&lt;div&gt;&lt;b&gt;UC-0001rprt&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Выбрать другой период отчета&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4043" y="18" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iH67yDx8k5spiiFpo-aq-22" value="&lt;div&gt;&lt;div&gt;&lt;b&gt;UC-0002vd&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Опубликовать видео&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
@@ -37,7 +37,7 @@
         <mxCell id="iH67yDx8k5spiiFpo-aq-26" value="&lt;div&gt;&lt;b&gt;UC-0001vd&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Просмотреть &lt;br&gt;&lt;/div&gt;&lt;div&gt;видео&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="4490" y="-132" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iH67yDx8k5spiiFpo-aq-33" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;UC-0014rprt&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Исключить/вернуть&lt;/div&gt;&lt;div&gt;категории для отчета&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="iH67yDx8k5spiiFpo-aq-33" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;UC-0001rprt&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Исключить/вернуть&lt;/div&gt;&lt;div&gt;категории для отчета&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4043" y="172" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iH67yDx8k5spiiFpo-aq-42" value="extend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="1" vertex="1">
@@ -103,7 +103,7 @@
             <mxPoint x="5143" y="123" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iH67yDx8k5spiiFpo-aq-98" value="&lt;div&gt;&lt;b&gt;UC-0014rprt&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Просмотреть отчет (статистику)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
+        <mxCell id="iH67yDx8k5spiiFpo-aq-98" value="&lt;div&gt;&lt;b&gt;UC-0001rprt&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Просмотреть отчет (статистику)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="3823" y="18" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iH67yDx8k5spiiFpo-aq-99" value="extend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;rotation=45;" parent="1" vertex="1">
