@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-20T17:02:36.034Z" agent="5.0 (Windows)" etag="D_4SahVGKLpxnbRCmnJj" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-20T17:03:45.915Z" agent="5.0 (Windows)" etag="FXcW5CqXieuPRovNLaL1" version="20.7.4" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
     <mxGraphModel dx="794" dy="2938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -661,7 +661,7 @@
         <mxCell id="31j3wq-KUqzsOCqXotkS-1" value="&amp;nbsp;" style="whiteSpace=wrap;html=1;fontSize=10;fillColor=none;strokeWidth=2;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="3139" y="-980" width="621" height="700" as="geometry" />
         </mxCell>
-        <mxCell id="31j3wq-KUqzsOCqXotkS-2" value="Авторизоваться по имейлу" style="ellipse;whiteSpace=wrap;html=1;flipH=1;strokeColor=#000000;" parent="1" vertex="1">
+        <mxCell id="31j3wq-KUqzsOCqXotkS-2" value="&lt;div&gt;&lt;b&gt;UC-0002auth&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Авторизоваться по имейлу&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;flipH=1;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="3209" y="-824" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="31j3wq-KUqzsOCqXotkS-3" value="Просмотреть личный кабинет" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
@@ -670,7 +670,7 @@
         <mxCell id="31j3wq-KUqzsOCqXotkS-5" value="&lt;div&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp; &lt;/b&gt;&lt;b&gt;UC-0001reg&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Войти по номеру телефона&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;flipH=1;" parent="1" vertex="1">
           <mxGeometry x="3429" y="-713" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="31j3wq-KUqzsOCqXotkS-6" value="&lt;div&gt;Авторизоваться&lt;/div&gt;&lt;div&gt;как администратор&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="31j3wq-KUqzsOCqXotkS-6" value="&lt;div&gt;&lt;b&gt;UC-0001auth&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Авторизоваться&lt;/div&gt;&lt;div&gt;как администратор&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3209" y="-969" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="31j3wq-KUqzsOCqXotkS-7" value="&lt;div&gt;Зарегистр-ся&lt;/div&gt;&lt;div&gt;в приложении&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;flipH=1;" parent="1" vertex="1">
@@ -682,7 +682,7 @@
             <mxPoint x="3335" y="-445" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="31j3wq-KUqzsOCqXotkS-10" value="&lt;div&gt;Войти по аккаунту&lt;/div&gt;&lt;div&gt;Google&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;flipH=1;" parent="1" vertex="1">
+        <mxCell id="31j3wq-KUqzsOCqXotkS-10" value="&lt;div&gt;&lt;b&gt;UC-0004reg&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Войти по аккаунту&lt;/div&gt;&lt;div&gt;Google&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;flipH=1;" parent="1" vertex="1">
           <mxGeometry x="3429" y="-603" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="31j3wq-KUqzsOCqXotkS-13" value="Сменить пароль" style="ellipse;whiteSpace=wrap;html=1;flipH=1;strokeColor=#000000;" parent="1" vertex="1">
