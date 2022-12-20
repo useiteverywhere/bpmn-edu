@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-20T16:59:06.061Z" agent="5.0 (Windows)" etag="N_bc3UTRisafKmr8W5Tb" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-20T17:02:36.034Z" agent="5.0 (Windows)" etag="D_4SahVGKLpxnbRCmnJj" version="20.7.4" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
-    <mxGraphModel dx="934" dy="3068" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="2938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -661,13 +661,13 @@
         <mxCell id="31j3wq-KUqzsOCqXotkS-1" value="&amp;nbsp;" style="whiteSpace=wrap;html=1;fontSize=10;fillColor=none;strokeWidth=2;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="3139" y="-980" width="621" height="700" as="geometry" />
         </mxCell>
-        <mxCell id="31j3wq-KUqzsOCqXotkS-2" value="Авторизоваться по имейлу" style="ellipse;whiteSpace=wrap;html=1;flipH=1;strokeColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="31j3wq-KUqzsOCqXotkS-2" value="Авторизоваться по имейлу" style="ellipse;whiteSpace=wrap;html=1;flipH=1;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="3209" y="-824" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="31j3wq-KUqzsOCqXotkS-3" value="Просмотреть личный кабинет" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="31j3wq-KUqzsOCqXotkS-3" value="Просмотреть личный кабинет" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="3209" y="-383" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="31j3wq-KUqzsOCqXotkS-5" value="&lt;div&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Войти по номеру телефона&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;flipH=1;" parent="1" vertex="1">
+        <mxCell id="31j3wq-KUqzsOCqXotkS-5" value="&lt;div&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp; &lt;/b&gt;&lt;b&gt;UC-0001reg&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Войти по номеру телефона&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;flipH=1;" parent="1" vertex="1">
           <mxGeometry x="3429" y="-713" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="31j3wq-KUqzsOCqXotkS-6" value="&lt;div&gt;Авторизоваться&lt;/div&gt;&lt;div&gt;как администратор&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -760,7 +760,7 @@
         <mxCell id="31j3wq-KUqzsOCqXotkS-30" value="&lt;div&gt;Восстановить&lt;/div&gt;&lt;div&gt;пароль&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;flipH=1;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="3620" y="-824" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="31j3wq-KUqzsOCqXotkS-31" value="&lt;div&gt;Ввести код&lt;/div&gt;&lt;div&gt;из смс&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;flipH=1;strokeColor=#000000;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="31j3wq-KUqzsOCqXotkS-31" value="&lt;div&gt;&lt;b&gt;UC-0001reg&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Ввести код&lt;/div&gt;&lt;div&gt;из смс&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;flipH=1;strokeColor=#000000;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="3620" y="-713" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="31j3wq-KUqzsOCqXotkS-32" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=10;strokeColor=#000000;strokeWidth=1;entryX=0.961;entryY=0.296;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.925;exitY=0.763;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="31j3wq-KUqzsOCqXotkS-6" target="31j3wq-KUqzsOCqXotkS-31" edge="1">
@@ -778,7 +778,7 @@
         <mxCell id="31j3wq-KUqzsOCqXotkS-36" value="&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;flipV=1;flipH=1;rotation=-35;" parent="1" vertex="1">
           <mxGeometry x="3360" y="-1095" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="31j3wq-KUqzsOCqXotkS-37" value="&lt;div&gt;Войти по аккаунту&lt;/div&gt;&lt;div&gt;&amp;nbsp;VKontakte&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;flipH=1;" parent="1" vertex="1">
+        <mxCell id="31j3wq-KUqzsOCqXotkS-37" value="&lt;b&gt;UC-0003reg&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;Войти по аккаунту&lt;/div&gt;&lt;div&gt;&amp;nbsp;VKontakte&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;flipH=1;" parent="1" vertex="1">
           <mxGeometry x="3429" y="-494" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="31j3wq-KUqzsOCqXotkS-38" value="" style="endArrow=block;html=1;rounded=0;fontSize=10;endFill=0;strokeColor=#000000;strokeWidth=1;" parent="1" source="31j3wq-KUqzsOCqXotkS-37" target="31j3wq-KUqzsOCqXotkS-7" edge="1">
@@ -787,7 +787,7 @@
             <mxPoint x="3344.88" y="-452.2399999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="31j3wq-KUqzsOCqXotkS-39" value="&lt;div&gt;&lt;b&gt;UC-0002reg&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Зарегистр-ся&lt;/div&gt;&lt;div&gt;по имейлу&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;flipH=1;strokeColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="31j3wq-KUqzsOCqXotkS-39" value="&lt;div&gt;&lt;b&gt;UC-0002reg&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Зарегистр-ся&lt;/div&gt;&lt;div&gt;по имейлу&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;flipH=1;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="3209" y="-603" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="31j3wq-KUqzsOCqXotkS-41" value="Авторизоваться в приложении" style="ellipse;whiteSpace=wrap;html=1;flipH=1;" parent="1" vertex="1">
