@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-26T13:58:06.980Z" agent="5.0 (Windows)" etag="sQ4tlCOrjOwqvCcKaVNx" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-26T13:59:15.689Z" agent="5.0 (Windows)" etag="sMHkV4hBH1NVC5Y0xHLW" version="20.7.4" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
-    <mxGraphModel dx="1211" dy="2872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1715" dy="3152" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1057,7 +1057,7 @@
         <mxCell id="1gWDLi_cBIXvgSNwaZcG-5" value="РЕГИСТРАЦИЯ, ВХОД, ПАРОЛИ" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="3140" y="-1025" width="340" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1gWDLi_cBIXvgSNwaZcG-6" value="КАТЕГОРИИ И ТРАНЗАКЦИИ" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="1gWDLi_cBIXvgSNwaZcG-6" value="ТРАНЗАКЦИИ И КАТЕГОРИИ" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="3933" y="-1025" width="300" height="40" as="geometry" />
         </mxCell>
       </root>
