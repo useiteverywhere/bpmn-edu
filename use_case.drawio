@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-26T13:56:43.699Z" agent="5.0 (Windows)" etag="Js8ZcgNgdcL2JfJX39ZK" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-26T13:58:06.980Z" agent="5.0 (Windows)" etag="sQ4tlCOrjOwqvCcKaVNx" version="20.7.4" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
     <mxGraphModel dx="1211" dy="2872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -590,10 +590,10 @@
           <mxGeometry x="1129" y="-791" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kcM0AiJL5Ays4Nl7kcId-7" value="&lt;div align=&quot;left&quot;&gt;На макете Личный кабинет и Раздел администрирования - это одно и то же окно, &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;просто у админа добавлено больше функций. Стоит ли создать вюзкейсе&amp;nbsp; одну сущность ЛК, а &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Просмотреть раздел администрирования и Просмотреть личный кабинет сделать наследованием?&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="3140" y="-1130" width="600" height="60" as="geometry" />
+          <mxGeometry x="3140" y="-1260" width="600" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kcM0AiJL5Ays4Nl7kcId-8" value="&lt;div align=&quot;left&quot;&gt;На странице со списком пользователей админ может открыть карточку пользователя, &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;то есть должно быть расширение Просмотреть карточку пользователя в юзкейсе&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="3140" y="-1070" width="530" height="40" as="geometry" />
+          <mxGeometry x="3140" y="-1200" width="530" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kcM0AiJL5Ays4Nl7kcId-9" value="&lt;div&gt;&lt;b&gt;UC-0001usr&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Просмотреть карточку пользователя&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="3302" y="172" width="120" height="80" as="geometry" />
@@ -1053,6 +1053,12 @@
         </mxCell>
         <mxCell id="1gWDLi_cBIXvgSNwaZcG-4" value="ПОМОЩЬ" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="5081" y="-195" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1gWDLi_cBIXvgSNwaZcG-5" value="РЕГИСТРАЦИЯ, ВХОД, ПАРОЛИ" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="3140" y="-1025" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1gWDLi_cBIXvgSNwaZcG-6" value="КАТЕГОРИИ И ТРАНЗАКЦИИ" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="3933" y="-1025" width="300" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
