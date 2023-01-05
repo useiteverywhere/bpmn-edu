@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-05T19:10:20.584Z" agent="5.0 (Windows)" etag="kLYDjAigXbV65XpxWCk7" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-05T19:10:48.627Z" agent="5.0 (Windows)" etag="6VZERJKDmfcDDL6IVhhV" version="20.7.4" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
     <mxGraphModel dx="2669" dy="2708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1121,16 +1121,16 @@
           <mxGeometry width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_1Gxh0HOWtnsteGh9vlR-21" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-1280" y="-588" width="200" height="190" as="geometry" />
+          <mxGeometry x="-1280" y="-588" width="200" height="188" as="geometry" />
         </mxCell>
         <mxCell id="_1Gxh0HOWtnsteGh9vlR-22" value="&lt;div align=&quot;left&quot;&gt;# period: date&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#009900&quot;&gt;+ category: enum&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="_1Gxh0HOWtnsteGh9vlR-21">
-          <mxGeometry y="27.14" width="200" height="42.86" as="geometry" />
+          <mxGeometry y="26.854315789473684" width="200" height="42.408842105263155" as="geometry" />
         </mxCell>
-        <mxCell id="_1Gxh0HOWtnsteGh9vlR-23" value="&lt;div align=&quot;left&quot;&gt;+ viewWalletId()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ viewWalletTotal(&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ viewCategoryId()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ viewTransactionType()&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ viewTransactionDate()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ viewCurrency()&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="_1Gxh0HOWtnsteGh9vlR-21">
-          <mxGeometry y="70" width="200" height="120" as="geometry" />
+        <mxCell id="_1Gxh0HOWtnsteGh9vlR-23" value="&lt;div align=&quot;left&quot;&gt;+ viewWalletId()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ viewWalletTotal(&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ viewCategoryId()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ viewTransactionType()&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ viewTransactionDate()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ viewCurrency()&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="_1Gxh0HOWtnsteGh9vlR-21">
+          <mxGeometry y="69.26" width="200" height="100.74" as="geometry" />
         </mxCell>
         <mxCell id="_1Gxh0HOWtnsteGh9vlR-24" value="&lt;b&gt;Statistics&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="_1Gxh0HOWtnsteGh9vlR-21">
-          <mxGeometry width="200" height="27.142857142857146" as="geometry" />
+          <mxGeometry width="200" height="26.857142857142858" as="geometry" />
         </mxCell>
         <mxCell id="_1Gxh0HOWtnsteGh9vlR-25" value="" style="endArrow=none;html=1;rounded=0;exitX=0.999;exitY=0.793;exitDx=0;exitDy=0;entryX=-0.003;entryY=0.364;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="_1Gxh0HOWtnsteGh9vlR-2" target="_1Gxh0HOWtnsteGh9vlR-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
