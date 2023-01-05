@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-05T16:01:09.422Z" agent="5.0 (Windows)" etag="PUeo02R9jTV0Ddhk4dwG" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-05T16:02:39.959Z" agent="5.0 (Windows)" etag="Ar6gx3zSVzBdloUeDuK3" version="20.7.4" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
-    <mxGraphModel dx="3291" dy="3034" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2230" dy="2478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1111,11 +1111,11 @@
         <mxCell id="_1Gxh0HOWtnsteGh9vlR-17" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-300" y="-1018" width="150" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="_1Gxh0HOWtnsteGh9vlR-18" value="&lt;div align=&quot;left&quot;&gt;+ helpCategory: enum&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ helpHeader: string&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ helpBody: string&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ helpImage:&lt;font color=&quot;#009900&quot;&gt; image&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="_1Gxh0HOWtnsteGh9vlR-17">
-          <mxGeometry y="20" width="150" height="60" as="geometry" />
+        <mxCell id="_1Gxh0HOWtnsteGh9vlR-18" value="&lt;div align=&quot;left&quot;&gt;+helpId: int&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#BFBFBF&quot;&gt;+ helpCategory: enum&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ helpHeader: string&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ helpBody: string&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ helpImage:&lt;font color=&quot;#009900&quot;&gt; image&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="_1Gxh0HOWtnsteGh9vlR-17">
+          <mxGeometry y="20" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_1Gxh0HOWtnsteGh9vlR-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="_1Gxh0HOWtnsteGh9vlR-17">
-          <mxGeometry y="80" width="150" height="60" as="geometry" />
+          <mxGeometry y="100" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_1Gxh0HOWtnsteGh9vlR-20" value="HelpQuestion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="_1Gxh0HOWtnsteGh9vlR-17">
           <mxGeometry width="150" height="20" as="geometry" />
