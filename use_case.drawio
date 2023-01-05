@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-05T18:51:39.113Z" agent="5.0 (Windows)" etag="jokEMT7Zo_Q8UqZoEiiR" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-05T18:53:52.065Z" agent="5.0 (Windows)" etag="kJsGcszGnCTDsIFUHQ6I" version="20.7.4" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
-    <mxGraphModel dx="2286" dy="2507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2525" dy="2633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1075,7 +1075,7 @@
         <mxCell id="_1Gxh0HOWtnsteGh9vlR-5" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-1280" y="-1018" width="200" height="258" as="geometry" />
         </mxCell>
-        <mxCell id="_1Gxh0HOWtnsteGh9vlR-6" value="&lt;div align=&quot;left&quot;&gt;+ transactionId: Int&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ transactionType: enum&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ categoryName: enum&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ transactionAmount: float&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ transactionDate: date&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ currency: enum&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ transactionComment: string&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="_1Gxh0HOWtnsteGh9vlR-5">
+        <mxCell id="_1Gxh0HOWtnsteGh9vlR-6" value="&lt;div align=&quot;left&quot;&gt;+ transactionId: int&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ transactionType: enum&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ categoryName: enum&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ transactionAmount: float&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ transactionDate: date&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ currency: enum&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ transactionComment: string&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="_1Gxh0HOWtnsteGh9vlR-5">
           <mxGeometry y="21.5" width="200" height="129" as="geometry" />
         </mxCell>
         <mxCell id="_1Gxh0HOWtnsteGh9vlR-7" value="&lt;div align=&quot;left&quot;&gt;+ viewWalletId()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ viewWalletTotal()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ viewCategoryId()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ viewCategoryName()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ viewCurrency()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ viewCategoryIcon()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#009900&quot;&gt;+ convertCurrency()&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="_1Gxh0HOWtnsteGh9vlR-5">
