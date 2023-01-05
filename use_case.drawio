@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-05T16:57:19.976Z" agent="5.0 (Windows)" etag="L3yHRTrsv-nC1nGDsVcS" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-05T17:01:32.517Z" agent="5.0 (Windows)" etag="ZPWgesj7dN2kH81iB3HM" version="20.7.4" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
-    <mxGraphModel dx="2286" dy="2507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2557" dy="2649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1073,16 +1073,16 @@
           <mxGeometry width="220.00000000000003" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_1Gxh0HOWtnsteGh9vlR-5" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-1280" y="-1018" width="200" height="240" as="geometry" />
+          <mxGeometry x="-1280" y="-1018" width="200" height="258" as="geometry" />
         </mxCell>
         <mxCell id="_1Gxh0HOWtnsteGh9vlR-6" value="&lt;div align=&quot;left&quot;&gt;+ transactionId: Int&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ transactionType: enum&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ categoryName: enum&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ transactionAmount: float&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ transactionDate: date&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ currency: enum&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ transactionComment: string&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="_1Gxh0HOWtnsteGh9vlR-5">
-          <mxGeometry y="20" width="200" height="120" as="geometry" />
+          <mxGeometry y="21.5" width="200" height="129" as="geometry" />
         </mxCell>
-        <mxCell id="_1Gxh0HOWtnsteGh9vlR-7" value="&lt;div align=&quot;left&quot;&gt;+ viewWalletId()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ viewWalletTotal()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ viewCategoryId()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ viewCategoryName()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ viewCurrency()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ viewCategoryIcon()&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="_1Gxh0HOWtnsteGh9vlR-5">
-          <mxGeometry y="140" width="200" height="100" as="geometry" />
+        <mxCell id="_1Gxh0HOWtnsteGh9vlR-7" value="&lt;div align=&quot;left&quot;&gt;+ viewWalletId()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ viewWalletTotal()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ viewCategoryId()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ viewCategoryName()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ viewCurrency()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ viewCategoryIcon()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#009900&quot;&gt;+ convertCurrency()&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="_1Gxh0HOWtnsteGh9vlR-5">
+          <mxGeometry y="150.5" width="200" height="107.5" as="geometry" />
         </mxCell>
         <mxCell id="_1Gxh0HOWtnsteGh9vlR-8" value="Transaction" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="_1Gxh0HOWtnsteGh9vlR-5">
-          <mxGeometry width="200" height="20" as="geometry" />
+          <mxGeometry width="200" height="21.5" as="geometry" />
         </mxCell>
         <mxCell id="_1Gxh0HOWtnsteGh9vlR-9" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-920" y="-1018" width="200" height="190" as="geometry" />
@@ -1287,7 +1287,7 @@
           <mxGeometry x="-1191" y="-697" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_1Gxh0HOWtnsteGh9vlR-67" value="0...*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1191" y="-781" width="40" height="30" as="geometry" />
+          <mxGeometry x="-1191" y="-761" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_1Gxh0HOWtnsteGh9vlR-68" value="&lt;font style=&quot;font-size: 31px;&quot;&gt;СТАРАЯ ВЕРСИЯ&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="650" y="-1100" width="280" height="50" as="geometry" />
