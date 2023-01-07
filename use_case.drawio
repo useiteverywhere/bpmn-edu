@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-07T12:24:07.763Z" agent="5.0 (Windows)" etag="hDLruVXo9XTT6q_w4Z-c" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-07T12:29:56.897Z" agent="5.0 (Windows)" etag="VblLQY1rFfTwDCQj5HlA" version="20.7.4" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
-    <mxGraphModel dx="4061" dy="3016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3280" dy="2594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1290,7 +1290,7 @@
           <mxGeometry x="-1693" y="-670" width="440" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_1Gxh0HOWtnsteGh9vlR-66" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1191" y="-617" width="30" height="30" as="geometry" />
+          <mxGeometry x="-1605" y="-617" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_1Gxh0HOWtnsteGh9vlR-67" value="0...*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1601" y="-721" width="40" height="30" as="geometry" />
@@ -1300,6 +1300,12 @@
         </mxCell>
         <mxCell id="_1Gxh0HOWtnsteGh9vlR-69" value="&lt;font style=&quot;font-size: 31px;&quot;&gt;НОВАЯ ВЕРСИЯ&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-2110" y="-1125" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dblA4NeJr6HmEcfPyueR-4" value="&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-2400" y="-728" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dblA4NeJr6HmEcfPyueR-6" value="&lt;div&gt;&amp;lt;&amp;lt;enumeration&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;transactionType&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Доход&lt;/div&gt;&lt;div&gt;Расход&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2000" y="-820" width="110" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
