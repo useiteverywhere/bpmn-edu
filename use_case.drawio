@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-07T13:30:45.845Z" agent="5.0 (Windows)" etag="goD4pazZy8pSm6dqin0J" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-07T13:34:30.963Z" agent="5.0 (Windows)" etag="atmTzVFRZqErNiUIIf6H" version="20.7.4" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
-    <mxGraphModel dx="3432" dy="2676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3558" dy="2744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1196,7 +1196,7 @@
         <mxCell id="_1Gxh0HOWtnsteGh9vlR-35" value="&lt;div align=&quot;left&quot;&gt;- email: string&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- password: string&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" parent="_1Gxh0HOWtnsteGh9vlR-34" vertex="1">
           <mxGeometry y="20" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_1Gxh0HOWtnsteGh9vlR-36" value="&lt;div align=&quot;left&quot;&gt;- сhangePassword()&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- changeEmail()&lt;/div&gt;&lt;br&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" parent="_1Gxh0HOWtnsteGh9vlR-34" vertex="1">
+        <mxCell id="_1Gxh0HOWtnsteGh9vlR-36" value="&lt;div align=&quot;left&quot;&gt;- сhangePassword()&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- changeEmail()&lt;/div&gt;&lt;font color=&quot;#009900&quot;&gt;- verifyLogin()&lt;/font&gt;&lt;br&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" parent="_1Gxh0HOWtnsteGh9vlR-34" vertex="1">
           <mxGeometry y="70" width="170" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_1Gxh0HOWtnsteGh9vlR-37" value="UserByEmail" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="_1Gxh0HOWtnsteGh9vlR-34" vertex="1">
@@ -1241,14 +1241,11 @@
         <mxCell id="_1Gxh0HOWtnsteGh9vlR-50" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-709" y="-788" width="170" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="_1Gxh0HOWtnsteGh9vlR-51" value="&lt;div align=&quot;left&quot;&gt;- id: int&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#009900&quot;&gt;- name: string&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#009900&quot;&gt;- surname: string&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#009900&quot;&gt;- activated: boolean&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- loginStatus: string&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- accontStatus: string&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#BFBFBF&quot;&gt;- accountType: string&lt;/font&gt;&lt;/div&gt;&lt;div&gt;-  registerDate: date&lt;/div&gt;&lt;div&gt;- lastVisitDate: date&lt;/div&gt;&lt;div&gt;+ userIcon: &lt;font color=&quot;#009900&quot;&gt;image&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" parent="_1Gxh0HOWtnsteGh9vlR-50" vertex="1">
-          <mxGeometry y="20" width="170" height="143" as="geometry" />
+        <mxCell id="_1Gxh0HOWtnsteGh9vlR-51" value="&lt;div align=&quot;left&quot;&gt;- id: int&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;div&gt;&lt;font color=&quot;#009900&quot;&gt;- name: string&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#009900&quot;&gt;- surname: string&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- email: string&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- phone: string&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- vkRegistered: boolean&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- googleRegistered: boolean&lt;br&gt;&lt;/div&gt;-  registerDate: date&lt;div&gt;- lastVisitDate: date&lt;/div&gt;&lt;div&gt;- accontStatus: string&lt;/div&gt;&lt;div&gt;- loginStatus: string&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#009900&quot;&gt;- activated: boolean&lt;br&gt;&lt;/font&gt;&lt;/div&gt;- userIcon: &lt;font color=&quot;#009900&quot;&gt;image&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" parent="_1Gxh0HOWtnsteGh9vlR-50" vertex="1">
+          <mxGeometry y="-40" width="170" height="203" as="geometry" />
         </mxCell>
-        <mxCell id="_1Gxh0HOWtnsteGh9vlR-52" value="&lt;div&gt;+ login()&lt;/div&gt;&lt;div&gt;+ register()&lt;/div&gt;&lt;div&gt;+ updateProfile()&lt;/div&gt;&lt;div&gt;+ verifyLogin(): boolean&lt;/div&gt;&lt;div&gt;+ updateIcon()&lt;/div&gt;&lt;div&gt;+ viewVideo()&lt;/div&gt;&lt;div&gt;+ viewHelp()&lt;/div&gt;&lt;div&gt;+ &lt;font color=&quot;#009900&quot;&gt;addCategory()&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" parent="_1Gxh0HOWtnsteGh9vlR-50" vertex="1">
+        <mxCell id="_1Gxh0HOWtnsteGh9vlR-52" value="&lt;div&gt;+ login()&lt;/div&gt;&lt;div&gt;+ register()&lt;/div&gt;&lt;div&gt;+ updateProfile()&lt;/div&gt;&lt;div&gt;+ verifyLogin(): boolean&lt;/div&gt;&lt;div&gt;+ updateIcon()&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#009900&quot;&gt;+ viewVideo()&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#009900&quot;&gt;+ viewHelp()&lt;/font&gt;&lt;/div&gt;&lt;div&gt;+ &lt;font color=&quot;#009900&quot;&gt;addCategory()&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" parent="_1Gxh0HOWtnsteGh9vlR-50" vertex="1">
           <mxGeometry y="163" width="170" height="127" as="geometry" />
-        </mxCell>
-        <mxCell id="_1Gxh0HOWtnsteGh9vlR-53" value="&lt;i&gt;User&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="_1Gxh0HOWtnsteGh9vlR-50" vertex="1">
-          <mxGeometry y="-3" width="170" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="_1Gxh0HOWtnsteGh9vlR-54" value="&lt;b&gt;loginStatus&lt;/b&gt;: пользователь в системе или вышел из нее" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-514" y="-718" width="350" height="30" as="geometry" />
@@ -1256,8 +1253,8 @@
         <mxCell id="_1Gxh0HOWtnsteGh9vlR-55" value="&lt;div&gt;&lt;b&gt;name, surname&lt;/b&gt;: опциональные поля, кот. можно заполнить вручную, &lt;br&gt;&lt;/div&gt;&lt;div&gt;или туда установятся данные из поля name, surname соцсетей при &lt;br&gt;&lt;/div&gt;&lt;div&gt;регистрации соотв. способом&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-514" y="-766" width="420" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_1Gxh0HOWtnsteGh9vlR-56" value="&lt;b&gt;accountStatus&lt;/b&gt;: пользователь активен или заблокирован" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-514" y="-693" width="350" height="30" as="geometry" />
+        <mxCell id="_1Gxh0HOWtnsteGh9vlR-56" value="&lt;b&gt;accountStatus&lt;/b&gt;: пользователь зарегистрирован (активен) или заблокирован" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-514" y="-693" width="460" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_1Gxh0HOWtnsteGh9vlR-57" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;accountType&lt;/b&gt;: простой пользователь или админ; может быть добавлен другой &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;тип в будущем - &lt;font color=&quot;#FF3333&quot;&gt;убрала, если будет два приложения - одно для ползователей, &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FF3333&quot;&gt;другое для админа&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-514" y="-665" width="470" height="70" as="geometry" />
@@ -1340,8 +1337,11 @@
         <mxCell id="npMX1WqNSX1oU2Te6Veb-11" value="&lt;i&gt;User&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="npMX1WqNSX1oU2Te6Veb-8">
           <mxGeometry y="-3" width="170" height="22.5" as="geometry" />
         </mxCell>
-        <mxCell id="npMX1WqNSX1oU2Te6Veb-10" value="&lt;div&gt;+ login()&lt;/div&gt;&lt;div&gt;+ register()&lt;/div&gt;&lt;div&gt;+ updateProfile()&lt;/div&gt;&lt;div&gt;+ verifyLogin(): boolean&lt;/div&gt;&lt;div&gt;+ updateIcon()&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#009900&quot;&gt;+ viewVideo()&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#009900&quot;&gt;+ viewHelp()&lt;/font&gt;&lt;/div&gt;&lt;div&gt;+ &lt;font color=&quot;#009900&quot;&gt;addCategory()&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="1">
+        <mxCell id="npMX1WqNSX1oU2Te6Veb-10" value="&lt;div&gt;+ login()&lt;/div&gt;&lt;div&gt;+ register()&lt;/div&gt;&lt;div&gt;+ updateProfile()&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ updateIcon()&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#009900&quot;&gt;+ viewVideo()&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#009900&quot;&gt;+ viewHelp()&lt;/font&gt;&lt;/div&gt;&lt;div&gt;+ &lt;font color=&quot;#009900&quot;&gt;addCategory()&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="1">
           <mxGeometry x="-760" y="-10" width="170" height="127" as="geometry" />
+        </mxCell>
+        <mxCell id="_1Gxh0HOWtnsteGh9vlR-53" value="&lt;i&gt;User&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-709" y="-850" width="170" height="22.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
