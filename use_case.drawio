@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-07T13:07:43.949Z" agent="5.0 (Windows)" etag="7ZOYCmAldkMVJD2s0f_Y" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-07T13:08:36.856Z" agent="5.0 (Windows)" etag="7isMSvRHWnHJcCT7Xhxv" version="20.7.4" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
     <mxGraphModel dx="3432" dy="2676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1253,8 +1253,8 @@
         <mxCell id="_1Gxh0HOWtnsteGh9vlR-54" value="&lt;b&gt;loginStatus&lt;/b&gt;: пользователь в системе или вышел из нее" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-514" y="-718" width="350" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_1Gxh0HOWtnsteGh9vlR-55" value="&lt;div&gt;&lt;b&gt;name&lt;/b&gt;: опциональное поле, которое можно заполнить вручную, &lt;br&gt;&lt;/div&gt;&lt;div&gt;или туда установятся данные из поля name соцсетей&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-514" y="-756" width="390" height="40" as="geometry" />
+        <mxCell id="_1Gxh0HOWtnsteGh9vlR-55" value="&lt;div&gt;&lt;b&gt;name, surname&lt;/b&gt;: опциональные поля, кот. можно заполнить вручную, &lt;br&gt;&lt;/div&gt;&lt;div&gt;или туда установятся данные из поля name, surname соцсетей при &lt;br&gt;&lt;/div&gt;&lt;div&gt;регистрации соотв. способом&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-514" y="-766" width="420" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_1Gxh0HOWtnsteGh9vlR-56" value="&lt;b&gt;accountStatus&lt;/b&gt;: пользователь активен или заблокирован" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-514" y="-693" width="350" height="30" as="geometry" />
