@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-07T13:15:07.171Z" agent="5.0 (Windows)" etag="6rWg9HJuOal7qd4JHzIQ" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-07T13:30:45.845Z" agent="5.0 (Windows)" etag="goD4pazZy8pSm6dqin0J" version="20.7.4" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
     <mxGraphModel dx="3432" dy="2676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1332,16 +1332,16 @@
           <mxGeometry width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="npMX1WqNSX1oU2Te6Veb-8" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-699" y="-200" width="170" height="290" as="geometry" />
+          <mxGeometry x="-760" y="-230" width="170" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="npMX1WqNSX1oU2Te6Veb-9" value="&lt;div align=&quot;left&quot;&gt;- id: int&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- email: string&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#009900&quot;&gt;- name: string&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#009900&quot;&gt;- surname: string&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#009900&quot;&gt;- activated: boolean&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- loginStatus: string&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- accontStatus: string&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#BFBFBF&quot;&gt;- accountType: string&lt;/font&gt;&lt;/div&gt;&lt;div&gt;-  registerDate: date&lt;/div&gt;&lt;div&gt;- lastVisitDate: date&lt;/div&gt;&lt;div&gt;+ userIcon: &lt;font color=&quot;#009900&quot;&gt;image&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="npMX1WqNSX1oU2Te6Veb-8">
-          <mxGeometry y="20" width="170" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="npMX1WqNSX1oU2Te6Veb-10" value="&lt;div&gt;+ login()&lt;/div&gt;&lt;div&gt;+ register()&lt;/div&gt;&lt;div&gt;+ updateProfile()&lt;/div&gt;&lt;div&gt;+ verifyLogin(): boolean&lt;/div&gt;&lt;div&gt;+ updateIcon()&lt;/div&gt;&lt;div&gt;+ viewVideo()&lt;/div&gt;&lt;div&gt;+ viewHelp()&lt;/div&gt;&lt;div&gt;+ &lt;font color=&quot;#009900&quot;&gt;addCategory()&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="npMX1WqNSX1oU2Te6Veb-8">
-          <mxGeometry y="343" width="170" height="127" as="geometry" />
+        <mxCell id="npMX1WqNSX1oU2Te6Veb-9" value="&lt;div align=&quot;left&quot;&gt;- id: int&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;div&gt;&lt;font color=&quot;#009900&quot;&gt;- name: string&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#009900&quot;&gt;- surname: string&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- email: string&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- phone: string&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- vkRegistered: boolean&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- googleRegistered: boolean&lt;br&gt;&lt;/div&gt;-  registerDate: date&lt;div&gt;- lastVisitDate: date&lt;/div&gt;&lt;div&gt;- accontStatus: string&lt;/div&gt;&lt;div&gt;- loginStatus: string&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#009900&quot;&gt;- activated: boolean&lt;br&gt;&lt;/font&gt;&lt;/div&gt;- userIcon: &lt;font color=&quot;#009900&quot;&gt;image&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="npMX1WqNSX1oU2Te6Veb-8">
+          <mxGeometry y="20" width="170" height="200" as="geometry" />
         </mxCell>
         <mxCell id="npMX1WqNSX1oU2Te6Veb-11" value="&lt;i&gt;User&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="npMX1WqNSX1oU2Te6Veb-8">
           <mxGeometry y="-3" width="170" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="npMX1WqNSX1oU2Te6Veb-10" value="&lt;div&gt;+ login()&lt;/div&gt;&lt;div&gt;+ register()&lt;/div&gt;&lt;div&gt;+ updateProfile()&lt;/div&gt;&lt;div&gt;+ verifyLogin(): boolean&lt;/div&gt;&lt;div&gt;+ updateIcon()&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#009900&quot;&gt;+ viewVideo()&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#009900&quot;&gt;+ viewHelp()&lt;/font&gt;&lt;/div&gt;&lt;div&gt;+ &lt;font color=&quot;#009900&quot;&gt;addCategory()&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="-10" width="170" height="127" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
