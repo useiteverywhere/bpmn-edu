@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-07T13:08:36.856Z" agent="5.0 (Windows)" etag="7isMSvRHWnHJcCT7Xhxv" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-07T13:10:21.670Z" agent="5.0 (Windows)" etag="oy1t0ZIU0ttfTrXnEUCr" version="20.7.4" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
     <mxGraphModel dx="3432" dy="2676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1241,7 +1241,7 @@
         <mxCell id="_1Gxh0HOWtnsteGh9vlR-50" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-709" y="-788" width="170" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="_1Gxh0HOWtnsteGh9vlR-51" value="&lt;div align=&quot;left&quot;&gt;- id: int&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#009900&quot;&gt;- name: string&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#009900&quot;&gt;- surname: string&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- loginStatus: string&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- accontStatus: string&lt;br&gt;&lt;/div&gt;&lt;div&gt;- accountType: string&lt;/div&gt;&lt;div&gt;-  registerDate: date&lt;/div&gt;&lt;div&gt;- lastVisitDate: date&lt;/div&gt;&lt;div&gt;+ userIcon: &lt;font color=&quot;#009900&quot;&gt;image&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" parent="_1Gxh0HOWtnsteGh9vlR-50" vertex="1">
+        <mxCell id="_1Gxh0HOWtnsteGh9vlR-51" value="&lt;div align=&quot;left&quot;&gt;- id: int&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#009900&quot;&gt;- name: string&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#009900&quot;&gt;- surname: string&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- loginStatus: string&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- accontStatus: string&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#BFBFBF&quot;&gt;- accountType: string&lt;/font&gt;&lt;/div&gt;&lt;div&gt;-  registerDate: date&lt;/div&gt;&lt;div&gt;- lastVisitDate: date&lt;/div&gt;&lt;div&gt;+ userIcon: &lt;font color=&quot;#009900&quot;&gt;image&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" parent="_1Gxh0HOWtnsteGh9vlR-50" vertex="1">
           <mxGeometry y="35.5" width="170" height="127.5" as="geometry" />
         </mxCell>
         <mxCell id="_1Gxh0HOWtnsteGh9vlR-52" value="&lt;div&gt;+ login()&lt;/div&gt;&lt;div&gt;+ register()&lt;/div&gt;&lt;div&gt;+ updateProfile()&lt;/div&gt;&lt;div&gt;+ verifyLogin(): boolean&lt;/div&gt;&lt;div&gt;+ updateIcon()&lt;/div&gt;&lt;div&gt;+ viewVideo()&lt;/div&gt;&lt;div&gt;+ viewHelp()&lt;/div&gt;&lt;div&gt;+ &lt;font color=&quot;#009900&quot;&gt;addCategory()&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" parent="_1Gxh0HOWtnsteGh9vlR-50" vertex="1">
@@ -1259,14 +1259,14 @@
         <mxCell id="_1Gxh0HOWtnsteGh9vlR-56" value="&lt;b&gt;accountStatus&lt;/b&gt;: пользователь активен или заблокирован" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-514" y="-693" width="350" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_1Gxh0HOWtnsteGh9vlR-57" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;accountType&lt;/b&gt;: простой пользователь или админ; может быть добавлен другой &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;тип в будущем&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-514" y="-669" width="480" height="40" as="geometry" />
+        <mxCell id="_1Gxh0HOWtnsteGh9vlR-57" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;accountType&lt;/b&gt;: простой пользователь или админ; может быть добавлен другой &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;тип в будущем - &lt;font color=&quot;#FF3333&quot;&gt;убрала, если будет два приложения - одно для ползователей, &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FF3333&quot;&gt;другое для админа&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-514" y="-665" width="470" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_1Gxh0HOWtnsteGh9vlR-58" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;registerDate&lt;/b&gt;: дата и время регистрации&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-514" y="-633" width="260" height="30" as="geometry" />
+          <mxGeometry x="-514" y="-613" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_1Gxh0HOWtnsteGh9vlR-59" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;lastVisitDate&lt;/b&gt;: дата и время последнего входа&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-514" y="-607" width="290" height="30" as="geometry" />
+          <mxGeometry x="-514" y="-587" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_1Gxh0HOWtnsteGh9vlR-60" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=block;html=1;rounded=0;startSize=12;endSize=12;targetPerimeterSpacing=12;entryX=0.186;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" parent="1" target="_1Gxh0HOWtnsteGh9vlR-52" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
