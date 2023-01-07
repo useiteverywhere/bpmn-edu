@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-07T14:41:22.702Z" agent="5.0 (Windows)" etag="W7iUMktBI41JzDlh5-vm" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-07T14:56:41.884Z" agent="5.0 (Windows)" etag="ITsSCriOT94htcshA3sc" version="20.7.4" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
-    <mxGraphModel dx="4474" dy="3238" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3470" dy="2697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1110,6 +1110,9 @@
         </mxCell>
         <mxCell id="npMX1WqNSX1oU2Te6Veb-19" value="&lt;div&gt;&lt;font color=&quot;#FF3333&quot;&gt;Нужно ли перечилслять все&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#FF3333&quot;&gt;доступные пользователю действия, такие как &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#FF3333&quot;&gt;Добавить Категорию, добавить Транзакцию, &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#009900&quot;&gt;&lt;font color=&quot;#FF3333&quot;&gt;удалить Категиорию и тп?&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#000000;align=right;" vertex="1" parent="_1Gxh0HOWtnsteGh9vlR-1">
           <mxGeometry x="855" y="408" width="300" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="npMX1WqNSX1oU2Te6Veb-20" value="&lt;div&gt;Одна из задач по АПИ - получение курса валюты на определенную дату, &lt;br&gt;&lt;/div&gt;&lt;div&gt;приложение затем пересчитывает сумму. Нужно ли в этом случае Валюту выделять в отдельный класс,&lt;/div&gt;&lt;div&gt;убрав ее из параметров Транзакции?&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF3333;" vertex="1" parent="_1Gxh0HOWtnsteGh9vlR-1">
+          <mxGeometry x="380" y="-60" width="610" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_1Gxh0HOWtnsteGh9vlR-5" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-1690" y="-1018" width="200" height="308" as="geometry" />
