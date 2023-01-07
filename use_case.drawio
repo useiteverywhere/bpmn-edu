@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-07T12:57:30.294Z" agent="5.0 (Windows)" etag="INaQFZ3BwJRugVHkIh6e" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-07T12:58:31.476Z" agent="5.0 (Windows)" etag="Flv_AZMfb1rF_HVdSqFj" version="20.7.4" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
     <mxGraphModel dx="4458" dy="2771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1061,7 +1061,7 @@
           <mxGeometry x="3933" y="-1025" width="300" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_1Gxh0HOWtnsteGh9vlR-1" value=" " style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-2070" y="-1018" width="990" height="640" as="geometry" />
+          <mxGeometry x="-2070" y="-1018" width="1150" height="640" as="geometry" />
         </mxCell>
         <mxCell id="dblA4NeJr6HmEcfPyueR-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="_1Gxh0HOWtnsteGh9vlR-1" vertex="1">
           <mxGeometry x="-30" y="-40" width="1000" height="680" as="geometry" />
@@ -1079,13 +1079,19 @@
           <mxGeometry x="-30" y="-40" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dblA4NeJr6HmEcfPyueR-7" value="&lt;div&gt;&amp;lt;&amp;lt;enumeration&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;categoryName&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Зарплата&lt;/div&gt;&lt;div&gt;Иное&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="_1Gxh0HOWtnsteGh9vlR-1" vertex="1">
-          <mxGeometry x="70" y="298" width="110" height="72" as="geometry" />
+          <mxGeometry x="740" y="158" width="110" height="72" as="geometry" />
         </mxCell>
         <mxCell id="npMX1WqNSX1oU2Te6Veb-1" value="&lt;div&gt;&amp;lt;&amp;lt;enumeration&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;categoryName&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Продукты&lt;/div&gt;&lt;div&gt;Одежда&lt;/div&gt;&lt;div&gt;Транспрт&lt;br&gt;&lt;/div&gt;&lt;div&gt;Иное&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="_1Gxh0HOWtnsteGh9vlR-1">
-          <mxGeometry x="190" y="298" width="110" height="102" as="geometry" />
+          <mxGeometry x="740" y="238" width="110" height="102" as="geometry" />
         </mxCell>
         <mxCell id="npMX1WqNSX1oU2Te6Veb-2" value="&lt;div&gt;&amp;lt;&amp;lt;enumeration&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;currencyName&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Рубль&lt;/div&gt;&lt;div&gt;Доллар&lt;/div&gt;&lt;div&gt;Евро&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="_1Gxh0HOWtnsteGh9vlR-1">
-          <mxGeometry x="70" y="438" width="110" height="92" as="geometry" />
+          <mxGeometry x="250" y="238" width="110" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="dblA4NeJr6HmEcfPyueR-6" value="&lt;div&gt;&amp;lt;&amp;lt;enumeration&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;transactionType&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Расход&lt;/div&gt;&lt;div&gt;Приход&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="_1Gxh0HOWtnsteGh9vlR-1" vertex="1">
+          <mxGeometry x="250" y="150" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dblA4NeJr6HmEcfPyueR-9" value="&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FF3333&quot;&gt;Категории могут иметь одинаковое название, &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FF3333&quot;&gt;но принадлежать к разным типам Транзакций &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FF3333&quot;&gt;(в Приход - есть Иное, и в Расход есть Иное). &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FF3333&quot;&gt;Как это оформлять в списке Enumeration,&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FF3333&quot;&gt;особенно если одну категорию можно&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FF3333&quot;&gt;перемещать в подраздел ?&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="_1Gxh0HOWtnsteGh9vlR-1" vertex="1">
+          <mxGeometry x="860" y="148" width="290" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_1Gxh0HOWtnsteGh9vlR-5" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-1690" y="-1018" width="200" height="310" as="geometry" />
@@ -1310,14 +1316,8 @@
         <mxCell id="_1Gxh0HOWtnsteGh9vlR-69" value="&lt;font style=&quot;font-size: 31px;&quot;&gt;НОВАЯ ВЕРСИЯ&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-2110" y="-1125" width="270" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dblA4NeJr6HmEcfPyueR-6" value="&lt;div&gt;&amp;lt;&amp;lt;enumeration&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;transactionType&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Расход&lt;/div&gt;&lt;div&gt;Приход&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2000" y="-820" width="110" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="dblA4NeJr6HmEcfPyueR-8" value="&lt;table style=&quot;table-layout:fixed;font-size:10pt;font-family:Arial;width:0px;border-collapse:collapse;border:none&quot; dir=&quot;ltr&quot; xmlns=&quot;http://www.w3.org/1999/xhtml&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;1&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;100&quot;&gt;&lt;col width=&quot;100&quot;&gt;&lt;col width=&quot;100&quot;&gt;&lt;col width=&quot;100&quot;&gt;&lt;col width=&quot;87&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:21px;&quot;&gt;&lt;td data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;По умолчанию используются две категории: Зарплата и Иное&amp;quot;}&quot; style=&quot;border-right:1px solid transparent;overflow:visible;padding:2px 0px 2px 0px;vertical-align:bottom;background-color:#d9ead3;&quot;&gt;&lt;div style=&quot;overflow: hidden; position: relative; width: 398px; left: 3px;&quot;&gt;&lt;div style=&quot;float:left;&quot;&gt;По умолчанию используются две категории: Зарплата и Иное&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;border-right:1px solid transparent;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#d9ead3;&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-right:1px solid transparent;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#d9ead3;&quot;&gt;&lt;/td&gt;&lt;td style=&quot;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#d9ead3;&quot;&gt;&lt;/td&gt;&lt;td style=&quot;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#d9ead3;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height:21px;&quot;&gt;&lt;td data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;По умолчанию используются четыре категории: Продукты, Одежда, Транспорт, Иное&amp;quot;}&quot; colspan=&quot;5&quot; rowspan=&quot;1&quot; style=&quot;overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(217, 234, 211); overflow-wrap: break-word;&quot;&gt;По умолчанию используются четыре категории: Продукты, Одежда, Транспорт, Иное&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-2610" y="-899" width="520" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="dblA4NeJr6HmEcfPyueR-9" value="&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FF3333&quot;&gt;Категории могут иметь одинаковое название, &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FF3333&quot;&gt;но принадлежать к разным типам Транзакций &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FF3333&quot;&gt;(в Приход - есть Иное, и в Расход есть Иное). &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FF3333&quot;&gt;Как это оформлять в списке Enumeration,&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FF3333&quot;&gt;особенно если одну категорию можно&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FF3333&quot;&gt;перемещать в подраздел ?&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-2280" y="-758" width="290" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
