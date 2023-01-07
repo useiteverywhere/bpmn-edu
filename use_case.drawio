@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-07T14:21:10.835Z" agent="5.0 (Windows)" etag="bwUiW3n6HtAsB0e9s4xQ" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-07T14:21:58.385Z" agent="5.0 (Windows)" etag="lFP5gmkU6PjhY3W9SdoV" version="20.7.4" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
     <mxGraphModel dx="3470" dy="2697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1099,11 +1099,11 @@
         <mxCell id="_1Gxh0HOWtnsteGh9vlR-38" value=" " style="group" parent="_1Gxh0HOWtnsteGh9vlR-1" vertex="1" connectable="0">
           <mxGeometry x="1160" y="108" width="170" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="_1Gxh0HOWtnsteGh9vlR-39" value="&lt;div&gt;- email: string&lt;/div&gt;&lt;div&gt;- phone: string&lt;/div&gt;&lt;div&gt;- name: string&lt;/div&gt;&lt;div&gt;- lastVisitDate: date&lt;/div&gt;&lt;div&gt;- accountStatus: string&lt;br&gt;&lt;/div&gt;&lt;div&gt;- userIcon: image&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" parent="_1Gxh0HOWtnsteGh9vlR-38" vertex="1">
-          <mxGeometry y="22.11" width="170" height="97.89" as="geometry" />
+        <mxCell id="_1Gxh0HOWtnsteGh9vlR-39" value="&lt;div&gt;- id: int&lt;br&gt;&lt;/div&gt;&lt;div&gt;- email: string&lt;/div&gt;&lt;div&gt;- phone: string&lt;/div&gt;&lt;div&gt;- name: string&lt;/div&gt;&lt;div&gt;- lastVisitDate: date&lt;/div&gt;&lt;div&gt;- accountStatus: string&lt;br&gt;&lt;/div&gt;&lt;div&gt;- userIcon: image&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" parent="_1Gxh0HOWtnsteGh9vlR-38" vertex="1">
+          <mxGeometry y="22.11" width="170" height="107.89" as="geometry" />
         </mxCell>
         <mxCell id="_1Gxh0HOWtnsteGh9vlR-40" value="&lt;div align=&quot;left&quot;&gt;- login()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- updateProfile()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- updateIcon()&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- viewVideo()&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- addVideo()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- updateVideo()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#009900&quot;&gt;- publishVideo()&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#009900&quot;&gt;- deleteVideo()&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#009900&quot;&gt;- viewHelp()&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- addHelp()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- updateHelp()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- &lt;font color=&quot;#009900&quot;&gt;deleteHelp()&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- viewUserList()&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- searchUser()&lt;br&gt;&lt;/div&gt;&lt;div&gt;- viewUserAccount()&lt;/div&gt;&lt;div&gt;- banUser()&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" parent="_1Gxh0HOWtnsteGh9vlR-38" vertex="1">
-          <mxGeometry y="120" width="170" height="260" as="geometry" />
+          <mxGeometry y="130" width="170" height="250" as="geometry" />
         </mxCell>
         <mxCell id="_1Gxh0HOWtnsteGh9vlR-41" value="Admin" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="_1Gxh0HOWtnsteGh9vlR-38" vertex="1">
           <mxGeometry width="170" height="22.10526315789474" as="geometry" />
