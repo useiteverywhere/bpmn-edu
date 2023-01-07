@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-07T13:05:28.169Z" agent="5.0 (Windows)" etag="xs00d-KP_iXfCpTGaHPB" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-07T13:07:43.949Z" agent="5.0 (Windows)" etag="7ZOYCmAldkMVJD2s0f_Y" version="20.7.4" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
     <mxGraphModel dx="3432" dy="2676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1241,7 +1241,7 @@
         <mxCell id="_1Gxh0HOWtnsteGh9vlR-50" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-709" y="-788" width="170" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="_1Gxh0HOWtnsteGh9vlR-51" value="&lt;div align=&quot;left&quot;&gt;- userId: int&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ name: string&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- loginStatus: string&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- accontStatus: string&lt;br&gt;&lt;/div&gt;&lt;div&gt;- accountType: string&lt;/div&gt;&lt;div&gt;-  registerDate: date&lt;/div&gt;&lt;div&gt;- lastVisitDate: date&lt;/div&gt;&lt;div&gt;+ userIcon: &lt;font color=&quot;#009900&quot;&gt;image&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" parent="_1Gxh0HOWtnsteGh9vlR-50" vertex="1">
+        <mxCell id="_1Gxh0HOWtnsteGh9vlR-51" value="&lt;div align=&quot;left&quot;&gt;- id: int&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#009900&quot;&gt;- name: string&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#009900&quot;&gt;- surname: string&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- loginStatus: string&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- accontStatus: string&lt;br&gt;&lt;/div&gt;&lt;div&gt;- accountType: string&lt;/div&gt;&lt;div&gt;-  registerDate: date&lt;/div&gt;&lt;div&gt;- lastVisitDate: date&lt;/div&gt;&lt;div&gt;+ userIcon: &lt;font color=&quot;#009900&quot;&gt;image&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" parent="_1Gxh0HOWtnsteGh9vlR-50" vertex="1">
           <mxGeometry y="35.5" width="170" height="127.5" as="geometry" />
         </mxCell>
         <mxCell id="_1Gxh0HOWtnsteGh9vlR-52" value="&lt;div&gt;+ login()&lt;/div&gt;&lt;div&gt;+ register()&lt;/div&gt;&lt;div&gt;+ updateProfile()&lt;/div&gt;&lt;div&gt;+ verifyLogin(): boolean&lt;/div&gt;&lt;div&gt;+ updateIcon()&lt;/div&gt;&lt;div&gt;+ viewVideo()&lt;/div&gt;&lt;div&gt;+ viewHelp()&lt;/div&gt;&lt;div&gt;+ &lt;font color=&quot;#009900&quot;&gt;addCategory()&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" parent="_1Gxh0HOWtnsteGh9vlR-50" vertex="1">
