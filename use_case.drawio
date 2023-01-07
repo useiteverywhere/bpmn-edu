@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-07T12:23:20.730Z" agent="5.0 (Windows)" etag="jzLxWaRyLknPy1cYLHBO" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-07T12:24:07.763Z" agent="5.0 (Windows)" etag="hDLruVXo9XTT6q_w4Z-c" version="20.7.4" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
     <mxGraphModel dx="4061" dy="3016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1074,6 +1074,9 @@
         </mxCell>
         <mxCell id="_1Gxh0HOWtnsteGh9vlR-4" value="&lt;b&gt;Wallet&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="_1Gxh0HOWtnsteGh9vlR-1" vertex="1">
           <mxGeometry width="220.00000000000003" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dblA4NeJr6HmEcfPyueR-3" value="PKG" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="_1Gxh0HOWtnsteGh9vlR-1">
+          <mxGeometry x="-30" y="-40" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_1Gxh0HOWtnsteGh9vlR-5" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-1690" y="-1018" width="200" height="298" as="geometry" />
