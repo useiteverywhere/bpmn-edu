@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-07T13:02:37.187Z" agent="5.0 (Windows)" etag="I0waaVNeIqX7LSIMtkWD" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-07T13:05:28.169Z" agent="5.0 (Windows)" etag="xs00d-KP_iXfCpTGaHPB" version="20.7.4" type="github">
   <diagram id="ULDQTsybcPubR5Zz3P0X" name="Page-1">
     <mxGraphModel dx="3432" dy="2676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1092,6 +1092,9 @@
         </mxCell>
         <mxCell id="dblA4NeJr6HmEcfPyueR-9" value="&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FF3333&quot;&gt;Категории могут иметь одинаковое название, &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FF3333&quot;&gt;но принадлежать к разным типам Транзакций &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FF3333&quot;&gt;(в Приход - есть Иное, и в Расход есть Иное). &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FF3333&quot;&gt;Как это оформлять в списке Enumeration,&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FF3333&quot;&gt;особенно если одну категорию можно&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#FF3333&quot;&gt;перемещать в подраздел ?&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="_1Gxh0HOWtnsteGh9vlR-1" vertex="1">
           <mxGeometry x="860" y="148" width="290" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="npMX1WqNSX1oU2Te6Veb-3" value="&lt;div&gt;Является ли статистика вообще классом?&lt;/div&gt;&lt;div&gt;Какие у нее параметры? Может ли&amp;nbsp; у нее &lt;br&gt;&lt;/div&gt;&lt;div&gt;быть айди и прочее,указанное в списке справа?&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF3333;" vertex="1" parent="_1Gxh0HOWtnsteGh9vlR-1">
+          <mxGeometry x="80" y="458" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_1Gxh0HOWtnsteGh9vlR-5" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-1690" y="-1018" width="200" height="308" as="geometry" />
